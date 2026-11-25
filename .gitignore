@@ -1,0 +1,28 @@
+# Environment Variables
+.env
+*.env.local
+
+# Java / Spring Boot
+target/
+*.jar
+*.war
+.mvn/wrapper/maven-wrapper.jar
+.gradle/
+build/
+
+# Node / Frontend
+node_modules/
+dist/
+.next/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Heavy data & dumps
+*.pdf
+pipeline/raw_pdfs/
+*.log

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTET Prep Pro | Official Test Series</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Oriya:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="app">
+        <!-- Header -->
+        <header class="main-header">
+            <div class="logo">OTET <span>Prep Pro</span></div>
+            <div class="header-controls">
+                <div id="server-status-pill" class="server-status">
+                    <span class="dot"></span>
+                    <span id="server-status-text">Connecting...</span>
+                </div>
+                <div class="timer-display" id="timer" style="display: none;">02:30:00</div>
+                <button id="lang-toggle" class="btn-secondary">Switch to ଓଡ଼ିଆ</button>
+            </div>
+        </header>
+
+        <!-- Landing Page View -->
+        <main id="landing-view" class="view active">
+            <div class="hero">
+                <h1>Ace Your Odisha TET Exam</h1>
+                <p>Enterprise Mock Assessment Engine for Paper 1 and Paper 2. Powered by Spring Boot and PostgreSQL.</p>
+
+                <!-- Student Information Card -->
+                <div style="max-width: 450px; margin: 1.5rem auto; text-align: left; background: white; padding: 1.25rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-light); display: block; margin-bottom: 0.3rem;">Candidate Name (Optional)</label>
+                    <input type="text" id="candidate-name" placeholder="Enter your full name" style="width: 100%; padding: 0.6rem; border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.75rem; font-family: inherit;">
+                    
+                    <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-light); display: block; margin-bottom: 0.3rem;">Email / Roll Number</label>
+                    <input type="text" id="candidate-email" placeholder="e.g. candidate@example.com" style="width: 100%; padding: 0.6rem; border: 1px solid var(--border); border-radius: 6px; font-family: inherit;">
+                </div>
+
+                <!-- Paper Selection Grid -->
+                <div class="paper-selection" id="papers-container">
+                    <div class="paper-card" data-paper="paper1">
+                        <div class="tag">Primary Level</div>
+                        <h2>Paper 1</h2>
+                        <p>Classes I to V</p>
+                        <ul>
+                            <li>Child Development & Pedagogy</li>
+                            <li>Mathematics & EVS</li>
+                            <li>Languages (Odia & English)</li>
+                        </ul>
+                        <button class="btn-primary start-btn" data-paper="paper1">Start Test</button>
+                    </div>
+
+                    <div class="paper-card" data-paper="paper2-social">
+                        <div class="tag">Upper Primary</div>
+                        <h2>Paper 2 (Social)</h2>
+                        <p>Classes VI to VIII</p>
+                        <ul>
+                            <li>Child Development & Pedagogy</li>
+                            <li>Social Studies (History / Geo / Polity)</li>
+                            <li>Languages (Odia & English)</li>
+                        </ul>
+                        <button class="btn-primary start-btn" data-paper="paper2-social">Start Test</button>
+                    </div>
+
+                    <div class="paper-card" data-paper="paper2-science">
+                        <div class="tag">Upper Primary</div>
+                        <h2>Paper 2 (Math & Sci)</h2>
+                        <p>Classes VI to VIII</p>
+                        <ul>
+                            <li>Child Development & Pedagogy</li>
+                            <li>Mathematics & Science</li>
+                            <li>Languages (Odia & English)</li>
+                        </ul>
+                        <button class="btn-primary start-btn" data-paper="paper2-science">Start Test</button>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Quiz Interface View -->
+        <main id="quiz-view" class="view" style="display: none;">
+            <div class="quiz-container">
+                <aside class="question-palette">
+                    <h3>Questions Palette</h3>
+                    <div class="palette-legend">
+                        <span class="legend-item"><span class="dot answer"></span> Answered</span>
+                        <span class="legend-item"><span class="dot visited"></span> Visited</span>
+                        <span class="legend-item"><span class="dot marked"></span> Review</span>
+                        <span class="legend-item"><span class="dot"></span> Not Visited</span>
+                    </div>
+                    <div class="grid" id="palette-grid">
+                        <!-- Generated by JS -->
+                    </div>
+                </aside>
+
+                <section class="question-area">
+                    <div class="question-header">
+                        <span class="subject-tag" id="current-subject">CDP</span>
+                        <span class="question-info">Question <span id="q-number">1</span> of <span id="total-q">150</span></span>
+                    </div>
+
+                    <div class="question-content">
+                        <p id="q-text" class="q-text">Loading question...</p>
+                    </div>
+
+                    <div class="options-list" id="options-container">
+                        <!-- Options generated by JS -->
+                    </div>
+
+                    <div class="quiz-controls">
+                        <button id="btn-prev" class="btn-secondary" disabled>Previous</button>
+                        <button id="btn-mark" class="btn-secondary">Mark for Review</button>
+                        <button id="btn-clear" class="btn-secondary">Clear Selection</button>
+                        <button id="btn-next" class="btn-primary">Next</button>
+                        <button id="btn-submit" class="btn-danger">Submit Exam</button>
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        <!-- Result & Review View -->
+        <main id="result-view" class="view" style="display: none;">
+            <div class="result-card">
+                <h2>Exam Performance Report</h2>
+                <div class="score-circle">
+                    <span id="score-display">0</span>
+                    <span class="total">/ <span id="result-total-display">150</span></span>
+                </div>
+                <p id="score-msg">Calculating results...</p>
+
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <label>Correct</label>
+                        <span id="stat-correct" class="text-green">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <label>Incorrect</label>
+                        <span id="stat-wrong" class="text-red">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <label>Unattempted</label>
+                        <span id="stat-skip">0</span>
+                    </div>
+                </div>
+
+                <div id="subject-breakdown-container"></div>
+
+                <div class="action-buttons" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center;">
+                    <button class="btn-secondary" id="btn-review-toggle">Show Detailed Question Review</button>
+                    <button class="btn-primary" onclick="window.location.reload()">Take Another Test</button>
+                </div>
+
+                <!-- Detailed Question Review Section -->
+                <div id="detailed-review-section" class="review-section" style="display: none;">
+                    <h3 style="margin-bottom: 1rem;">Question-by-Question Review</h3>
+                    <div id="reviews-list"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Script imports -->
+    <script src="config.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

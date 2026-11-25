@@ -1,0 +1,442 @@
+[
+  {
+    "number": 1,
+    "text": "Which is not a tool of observation ?",
+    "options": [
+      "Achievement test",
+      "Rating scale",
+      "Check-list",
+      "Anecdotal record"
+    ]
+  },
+  {
+    "number": 2,
+    "text": "If a test gives the same results whenever it is repeated, it is called as .",
+    "options": [
+      "Validity",
+      "Usability",
+      "Reliability",
+      "Predictability"
+    ]
+  },
+  {
+    "number": 3,
+    "text": "Which type of validity is important in case of achievement testing ?",
+    "options": [
+      "Construct validity",
+      "Content validity",
+      "Predictive validity",
+      "Concurrent validity"
+    ]
+  },
+  {
+    "number": 4,
+    "text": "What is the median of the following scores ?\n3, 5, 4, 9, 8",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "8"
+    ]
+  },
+  {
+    "number": 5,
+    "text": "ବଂଶାନୁକ୍ରମ କହିଲେ କ'ଣ ବୁଝ ?",
+    "options": [
+      "ଜନ୍ମ ସମୟରେ ଥିବା ସାଧାରଣ ଗୁଣ",
+      "ଜୀବନକାଳ ମଧ୍ୟରେ ଗ୍ରହଣ କରିଥିବା ଗୁଣାବଳୀ",
+      "ପରିବେଶରୁ ମିଳିଥିବା ଗୁଣାବଳୀ",
+      "ଶିକ୍ଷଣରୁ ମିଳିଥିବା ଗୁଣାବଳୀ"
+    ]
+  },
+  {
+    "number": 6,
+    "text": "ନିମ୍ନୋକ୍ତ କେଉଁଟି ମନୁଷ୍ୟର ବିକାଶକୁ ପ୍ରଭାବିତ କରୁଥିବା ପରିବେଶର ଅନ୍ତର୍ଗତ ଏକ ଭାଗ ନୁହେଁ ?",
+    "options": [
+      "ଆର୍ଥିକ",
+      "ରାଜନୈତିକ",
+      "ନୈତିକ",
+      "ବଂଶଗତ"
+    ]
+  },
+  {
+    "number": 7,
+    "text": "ପ୍ରାରମ୍ଭିକ କିଶୋରାବସ୍ଥାରେ ଆନୁମାନିକ ବୟସର ପରିସର କେତେ ?",
+    "options": [
+      "୧୦ ରୁ ୧୩ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ",
+      "୧୩ ରୁ ୧୫ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ",
+      "୧୫ ରୁ ୨୦ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ",
+      "୨୦ ବର୍ଷରୁ ଊର୍ଦ୍ଧ୍ବ"
+    ]
+  },
+  {
+    "number": 8,
+    "text": "During post-natal period what happens to the development of nervous system ?",
+    "options": [
+      "Formation of new cells after birth.",
+      "Development of immature cells at birth.",
+      "Formation of new cells upto 3 years after birth.",
+      "Formation of new cells upto 6 years after birth."
+    ]
+  },
+  {
+    "number": 9,
+    "text": "According to Gasell which of the following is not a type of behaviour during infancy stage ?",
+    "options": [
+      "Motor",
+      "Language",
+      "Adaptive",
+      "Universal"
+    ]
+  },
+  {
+    "number": 10,
+    "text": "In which of the following period of development \"surge of life\" reaches its highest peak ?",
+    "options": [
+      "Infancy",
+      "Childhood",
+      "Adolescence",
+      "Adulthood"
+    ]
+  },
+  {
+    "number": 11,
+    "text": "The emotional content of the initial phase of life is known as ______.",
+    "options": [
+      "Excitement",
+      "Stress",
+      "Anxiety",
+      "Fear"
+    ]
+  },
+  {
+    "number": 12,
+    "text": "ହରଲକଙ୍କ ମତାନ୍ତରେ ନିମ୍ନୋକ୍ତ କେଉଁଟି ସାମାଜିକ ବିକାଶକୁ ବୁଝାଏ ?",
+    "options": [
+      "ସାମାଜିକୀକରଣ ସହ ଭାବ ବିନିମୟ ଦ୍ଵାରା ପରିପକ୍ଵତା ।",
+      "ସାମାଜିକ ସମ୍ପର୍କ ଦ୍ଵାରା ପରିପକ୍ଵତା ଲାଭ ।",
+      "କେବଳ ମାତ୍ର ପରିବାର ମଧ୍ୟରେ ପରିପକ୍ଵତା ଲାଭ ।",
+      "କେବଳ ମାତ୍ର ପଡୋଶୀମାନଙ୍କ ମଧ୍ୟରେ ପରିପକ୍ଵତା ଲାଭ ।"
+    ]
+  },
+  {
+    "number": 13,
+    "text": "୭ ରୁ ୧୨ ବର୍ଷ ବା ଯୌବନାରମ୍ଭ ପର୍ଯ୍ୟନ୍ତ ବିକାଶର ପର୍ଯ୍ୟାୟକୁ କ'ଣ କୁହାଯାଏ ?",
+    "options": [
+      "ଶୈଶବାବସ୍ଥା",
+      "ପ୍ରାକ୍ ଶୈଶବ",
+      "ପରବର୍ତୀ ଶୈଶବ ଅବସ୍ଥା",
+      "କୈଶୋରାବସ୍ଥା"
+    ]
+  },
+  {
+    "number": 14,
+    "text": "ନିମ୍ନୋକ୍ତ କେଉଁଟି ଏକ ମୌଳିକ ରାସାୟନିକ ପଦାର୍ଥ ଯାହା ବଂଶାନୁକ୍ରମିକ ଗୁଣକୁ ମୁଖ୍ୟତାଭାବେ ଅଧିକାରେ ସାହାଯ୍ୟ କରେ ?",
+    "options": [
+      "ଡି.ଏନ୍.ଏ.",
+      "ଆର୍.ଏନ୍.ଏ.",
+      "ଗୁଣସୂତ୍ର",
+      "ଜିନ୍"
+    ]
+  },
+  {
+    "number": 15,
+    "text": "ନିମ୍ନୋକ୍ତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷଣର ଏକ ଅର୍ଥ ଗଠନ ପ୍ରକ୍ରିୟା ସହିତ ଜୁଡି ନୁହେଁ ?",
+    "options": [
+      "ଶିକ୍ଷଣ ଏକ ସକ୍ରିୟତା ପ୍ରକ୍ରିୟା",
+      "ଶିକ୍ଷଣରେ ଭାଷା ଅନ୍ତର୍ଭୁକ୍ତ",
+      "ଶିକ୍ଷଣ ଏକ ପୂର୍ଣ୍ଣାଙ୍ଗ ପ୍ରକ୍ରିୟା",
+      "ଶିକ୍ଷଣ ଏକ ତାତ୍ଵକ୍ଷଣିକ ପ୍ରକ୍ରିୟା"
+    ]
+  },
+  {
+    "number": 16,
+    "text": "The process of assimilating new information as part of the existing cognitive structure is known as",
+    "options": [
+      "Subsumption",
+      "Consumption",
+      "Assumption",
+      "Presumption"
+    ]
+  },
+  {
+    "number": 17,
+    "text": "Which of the following is not true about Trial and Error Theory of Learning?",
+    "options": [
+      "Learning is incremental.",
+      "Learning is the result of the formation of connections.",
+      "Learning is mediated by ideas.",
+      "Learning is not insightful."
+    ]
+  },
+  {
+    "number": 18,
+    "text": "Arrange the following four inter-related steps in the right order as identified by Bandura in Observational learning:\ni. Consequences ii. Acquisition iii. Performance iv. Retention",
+    "options": [
+      "i, ii, iii & iv",
+      "iii, ii, i & iv",
+      "ii, iv, iii & i",
+      "iv, iii, i & ii"
+    ]
+  },
+  {
+    "number": 19,
+    "text": "Which of the following is not related to Advance organisers ?",
+    "options": [
+      "Advance organisers are special introductory statements.",
+      "It acts as a conceptual bridge.",
+      "It encourages behavioural modelling.",
+      "It facilitates meaningful learning."
+    ]
+  },
+  {
+    "number": 20,
+    "text": "ନିମ୍ନୋକ୍ତ ମଧ୍ୟରୁ କେଉଁଟି ସୃଜନଶୀଳ ଶିକ୍ଷାର୍ଥୀଙ୍କର ଲକ୍ଷଣ ନୁହେଁ ?",
+    "options": [
+      "ସାହସୀ",
+      "କୌତୁହଳୀ",
+      "ସର୍ବୋତ୍ତମ ସମ୍ଭାବ୍ୟ ଉତ୍ତର ନିମିତ୍ତ ଚିନ୍ତା କରିବା",
+      "ଦୂରଦୃଷ୍ଟିସମ୍ପନ୍ନ"
+    ]
+  },
+  {
+    "number": 21,
+    "text": "ନିମ୍ନୋକ୍ତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷଣ ସାଧ୍ୟ ବାଧାପ୍ରାପ୍ତ ଏକ ଅସୁବିଧାଗ୍ରସ୍ତ ଶିଶୁର ସୂଚକ ?",
+    "options": [
+      "ସ୍ପଷ୍ଟାଚେତ ଚିନ୍ତା କରି ପାରିବା",
+      "ଶୀଘ୍ର କ୍ଲାନ୍ତି ଅନୁଭବ କରିବା",
+      "ପଢ଼ିବା ବେଳେ ଧାଡ଼ି ଛାଡ଼ି ଯାଉଥିବା",
+      "କଥାବାର୍ତ୍ତା ଓ କାର୍ଯ୍ୟକଳାପ ଉଭୟରେ ଅବିବେକୀ ପ୍ରବୃତ୍ତିର କାର୍ଯ୍ୟ"
+    ]
+  },
+  {
+    "number": 22,
+    "text": "ଶିକ୍ଷଣ ଏକ ସାମାଜିକ କ୍ରିୟା ଭାବେ ବିଶ୍ଵାସ କରେ ଯେ :",
+    "options": [
+      "ସମସ୍ୟା ସମାଧାନ ନିମିତ୍ତ କଥାବାର୍ତ୍ତା ବ୍ୟବହାର କରାଯାଇବା",
+      "ସଂସ୍କୃତି ଶିଶୁର ବିକାଶ ନିମିତ୍ତ କୌଣସି ଜ୍ଞାନକ ଭାବେ ସାହାଯ୍ୟ କରିଥାଏ",
+      "ସାମାଜିକ ପାରସ୍ପରିକ କ୍ରିୟା ଦ୍ଵାରା ମାନସିକ ବିକାଶ ସମ୍ଭବ ହୋଇଥାଏ",
+      "ବ୍ୟକ୍ତି ହିଁ ଧାରଣାର ବନ୍ଧ"
+    ]
+  },
+  {
+    "number": 23,
+    "text": "The children having the problems in speech articulation are known as :",
+    "options": [
+      "(A) Dyslexia",
+      "(B) Dysgraphia",
+      "(C) Dysphasia",
+      "(D) Appraxia"
+    ]
+  },
+  {
+    "number": 24,
+    "text": "Which term is used to express the totality of the learning experiences that the pupil receives through manifold activities in the school ?",
+    "options": [
+      "(A) Curriculum",
+      "(B) Content",
+      "(C) Lesson Plan",
+      "(D) Syllabus"
+    ]
+  },
+  {
+    "number": 25,
+    "text": "Which of the following is not a strategy being recommended by the Programme of Action, 1992 (P.O.A., 1992) for the education of the SC/ST children ?",
+    "options": [
+      "(A) Equalisation of the educational development of the SC/ST with that of the non-SC/ST.",
+      "(B) Ensuring the cent percent enrolment of SC/ST children in the school leading to satisfactory completion at the primary stage of education.",
+      "(C) At least 75 percent of the children in the age group of 11-14 will have to be enrolled and retained in the school leading to satisfactory completion of class-VIII.",
+      "(D) At least 75 percent of the teachers working at the primary stage be trained."
+    ]
+  },
+  {
+    "number": 26,
+    "text": "ଏକ ଉତ୍ତମ ପରୀକ୍ଷାରେ କେଉଁ ଗୁଣଟି ନଥାଏ ?",
+    "options": [
+      "ବୈଧତା",
+      "ବିଶ୍ୱସନୀୟତା",
+      "ଉପଯୋଗୀତା",
+      "ସହଜଲଭ୍ୟତା"
+    ]
+  },
+  {
+    "number": 27,
+    "text": "ନିମ୍ନୋକ୍ତ ପଦ୍ଧତିରେ କେଉଁଟି ଅନ୍ୟ ତିନୋଟି ପଦ୍ଧତିରୁ ଭିନ୍ନ ?",
+    "options": [
+      "ଆଲୋଚନା କୈନ୍ଦ୍ରିକ",
+      "ଶିକ୍ଷକ କୈନ୍ଦ୍ରିକ",
+      "ଶିକ୍ଷାର୍ଥୀ କୈନ୍ଦ୍ରିକ",
+      "ଶିକ୍ଷଣ କୈନ୍ଦ୍ରିକ"
+    ]
+  },
+  {
+    "number": 28,
+    "text": "ନିମ୍ନୋକ୍ତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷାର୍ଥୀ କୈନ୍ଦ୍ରିକ ପଦ୍ଧତି ଅଟେ ?",
+    "options": [
+      "ଆଲୋଚନା",
+      "ପ୍ରଦର୍ଶନ",
+      "ବର୍ଣ୍ଣନା",
+      "ପ୍ରକଳ୍ପ"
+    ]
+  },
+  {
+    "number": 29,
+    "text": "ନିମ୍ନ ଲିଖିତ ମଧ୍ୟରୁ ଶିକ୍ଷାର୍ଥୀ କୈନ୍ଦ୍ରିକ ପାଠ୍ୟକ୍ରମରେ କାହାର ଗୁରୁତ୍ଵ ଅଧିକ ?",
+    "options": [
+      "ଶିକ୍ଷକ",
+      "ଶିଶୁ",
+      "ପାଠ୍ୟବସ୍ତୁ",
+      "ପରିବେଶ"
+    ]
+  },
+  {
+    "number": 30,
+    "text": "କେଉଁ ଗୁଡ଼ିକ କେବଳ ଦୃଶ୍ୟ ଉପକରଣ ଅଟେ ?",
+    "options": [
+      "କଳାପଟା, ଚାର୍ଟ, ଫ୍ଲାସ କାର୍ଡ଼",
+      "କଳାପଟା, ରେଡିଓ, ଟେଲିଭିଜନ",
+      "କଳାପଟା, ରେଡିଓ, ଖବରକାଗଜ",
+      "କଳାପଟା, ଟେପ ରେକର୍ଡ଼ର, ରେଖାଚିତ୍ର"
+    ]
+  },
+  {
+    "number": 31,
+    "text": "ଭାଷା ଶିକ୍ଷା କ୍ଷେତ୍ରରେ କେଉଁ ଦକ୍ଷତା ସର୍ବାଗ୍ରେ ଅଧ୍ୟୟନ ଅଧ୍ୟାପନ କରିବ ?",
+    "options": [
+      "ଶ୍ରବଣ",
+      "କଥନ",
+      "ପଠନ",
+      "ଲିଖନ"
+    ]
+  },
+  {
+    "number": 32,
+    "text": "ଶିଶୁର କେଉଁ ଦକ୍ଷତାକୁ ପ୍ରଶ୍ନୋତ୍ତର ଫଳରେ ଭାବ ପ୍ରକାଶ କରିବା ସମ୍ଭବ ?",
+    "options": [
+      "ଶ୍ରବଣ",
+      "ଲିଖନ",
+      "ପଠନ",
+      "କଥନ"
+    ]
+  },
+  {
+    "number": 33,
+    "text": "ଜଣେ ଶିକ୍ଷକ ବିଦ୍ୟାଳୟରୁ ଅନୁପସ୍ଥିତ ଥିବା ଯୋଗୁଁ ପ୍ରଧାନ ଶିକ୍ଷକଙ୍କୁ ଛୁଟି ପତ୍ର ଦେବାକୁ ପଡ଼ିବ । ଏହା କେଉଁ ପ୍ରକାର ପତ୍ର ?",
+    "options": [
+      "ବ୍ୟକ୍ତିଗତ ପତ୍ର",
+      "ନିମନ୍ତ୍ରଣ ପତ୍ର",
+      "ଦରଖାସ୍ତ ପତ୍ର",
+      "ବୃତ୍ତିଗତ ପତ୍ର"
+    ]
+  },
+  {
+    "number": 34,
+    "text": "କେଉଁ ପରୀକ୍ଷା ଯୋଗ୍ୟତା ନିର୍ଣ୍ଣୟରେ ସହାୟକ ନୁହେଁ ?",
+    "options": [
+      "ସମ୍ପାଦ୍ୟ",
+      "ପ୍ରାମାଣିକ",
+      "ଉପଲବ୍ଧି",
+      "ଗୋଷ୍ଠୀଭିତ୍ତିକ"
+    ]
+  },
+  {
+    "number": 35,
+    "text": "'ଆମ ରସ ବେଳ' କହିଲେ କେଉଁ ଶିକ୍ଷାଦାନ ପଦ୍ଧତି ଅନୁସରଣ କରାଯାଇଛି ?",
+    "options": [
+      "ଶ୍ରବଣମୁଖୀ ପଦ୍ଧତି",
+      "ଲିଖନ ପ୍ରକାଶନ",
+      "ବର୍ଣ୍ଣାନୁକ୍ରମିକ ପଦ୍ଧତି",
+      "ଶବ୍ଦ ଗଠନ ପ୍ରଣାଳୀ"
+    ]
+  },
+  {
+    "number": 36,
+    "text": "କେଉଁଟି ପଠନ ଶିକ୍ଷାଦାନର ଉଦ୍ଦେଶ୍ୟ ନୁହେଁ ?",
+    "options": [
+      "ଶୁଦ୍ଧ ଓ ସଠିକ୍ ଉଚ୍ଚାରଣ",
+      "ଆନନ୍ଦ ଉପଭୋଗ",
+      "କଳ୍ପନା ଶକ୍ତିର ବିକାଶ",
+      "ସୃଜନୀ ଶକ୍ତିର ବିକାଶ"
+    ]
+  },
+  {
+    "number": 37,
+    "text": "ଛାତ୍ରର ପଠନର ପ୍ରଥମାବସ୍ଥା କ'ଣ ?",
+    "options": [
+      "ଆନନ୍ଦ ଉପଭୋଗ",
+      "ବୋଧଗମ୍ୟ ଭାବରେ ପଢ଼ିବା",
+      "ଶବ୍ଦରୁ ଶବ୍ଦ ପଠନ କରିବା",
+      "ସାବଲୀଳ ପଠନ କରିବା"
+    ]
+  },
+  {
+    "number": 38,
+    "text": "ବାକ୍ୟବିଶ୍ଳେଷଣରେ କେଉଁ ବିଧି ବ୍ୟବହୃତ ହୁଏ ନାହିଁ ?",
+    "options": [
+      "ପ୍ରତ୍ୟକ୍ଷ",
+      "ପୂର୍ବପର",
+      "ବିଶ୍ଳେଷଣ",
+      "ଆଲୋଚନା"
+    ]
+  },
+  {
+    "number": 39,
+    "text": "କେଉଁଟି ବର୍ଣ୍ଣନାତ୍ମକ ଶିକ୍ଷାଦାନ ନିୟମ ପାଇଁ ଅପ୍ରଯୁଜ୍ୟ ?",
+    "options": [
+      "ଜ୍ଞାତରୁ ଅଜ୍ଞାତ ମଧ୍ୟକୁ ଗମନ ।",
+      "ସରଳରୁ ଜଟିଳକୁ ଗମନ କରିବା ।",
+      "ବିଶେଷରୁ ସାମାନ୍ୟକୁ ଗମନ କରିବା ।",
+      "ସଂଶ୍ଳେଷଣରୁ ବିଶ୍ଳେଷଣକୁ ଗମନ ।"
+    ]
+  },
+  {
+    "number": 40,
+    "text": "ପୁନରାବୃତ୍ତି ମିଶ୍ରଣ ପାଇଁ କେଉଁଟି ଏକ ପ୍ରଯୁକ୍ତ କାର୍ଯ୍ୟକ୍ରମ ?",
+    "options": [
+      "ନିଦାନିକ ଉପଚାର",
+      "ପାଠ୍ୟକ୍ରମ ପ୍ରସ୍ତୁତି",
+      "ବିଭିନ୍ନ ଶିକ୍ଷଣ ଉପକରଣ ପ୍ରସ୍ତୁତି",
+      "ଶିକ୍ଷକଙ୍କ ପ୍ରଶିକ୍ଷଣ"
+    ]
+  },
+  {
+    "number": 41,
+    "text": "ଭାଷା, ସଂସ୍କୃତି ଓ ଜନଜୀବନ ମଧ୍ୟରେ ନବଚେତନାରୁ କ'ଣ ଜନ୍ମ ନିଏ ?",
+    "options": [
+      "ମାନବିକତା",
+      "ସଭ୍ୟତା",
+      "ଜ୍ଞାନୀନ",
+      "ଚେତନା"
+    ]
+  },
+  {
+    "number": 42,
+    "text": "ଜୀବନ ଯାପନର ସର୍ବଶ୍ରେଷ୍ଠ ଧର୍ମ କ'ଣ ?",
+    "options": [
+      "ଜୀବନାଦର୍ଶ",
+      "ସଂସ୍କୃତି ସ୍ପୃହା",
+      "ସାହିତ୍ୟ ସ୍ପୃହା",
+      "ଧର୍ମ ପ୍ରବନ ସ୍ପୃହା"
+    ]
+  },
+  {
+    "number": 43,
+    "text": "ସଂସ୍କୃତି ସହିତ ସଭ୍ୟତା ଓ ଭାଷା ସହିତ ସାହିତ୍ୟର ସମନ୍ୱୟରେ କ'ଣ ସୃଷ୍ଟିହୁଏ ?",
+    "options": [
+      "ଜୀବନ ଦର୍ଶନ ଓ ସମାଜରେ ନିତି ଉପାଦାନ ସଂଗ୍ରାମ ।",
+      "ସଭ୍ୟତା ଓ ସଂସ୍କୃତିର ଆଦାନପ୍ରଦାନର ସାମଗ୍ରୀ କିମ୍ବା ।",
+      "ସମଗ୍ର ରାଷ୍ଟ୍ର ସଂସ୍କୃତି, ସମାଜ ଓ ସଭ୍ୟତା ପରିବର୍ତ୍ତନ ନ ହେଲେ ।",
+      "ଜାତିଗତ ଜୀବନର ସର୍ବଶ୍ରେଷ୍ଠ ନିୟମ ।"
+    ]
+  },
+  {
+    "number": 44,
+    "text": "ଲୋକଙ୍କୁ ନିଶ୍ଚିତ ବୋଧ କରେ ସୁରୁଚିପୂର୍ଣ୍ଣ ପ୍ରଭାବ କ'ଣ ?",
+    "options": [
+      "ସଭ୍ୟତାର",
+      "ଜ୍ଞାନୀନନ୍ଦ",
+      "ସମାଜର",
+      "ମାନବିକତା, ସଂସ୍କୃତି ଓ ଜନଜୀବନ"
+    ]
+  }
+]

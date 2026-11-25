@@ -1,0 +1,708 @@
+ID:1 | Sub:CDP | Q:ଶୈକ୍ଷିକ ଉନ୍ନତିର ପରିମାପ ନିମ୍ନୋକ୍ତ କେଉଁ ପରୀକ୍ଷଣ ଦ୍ୱାରା କରାଯାଇପାରିବ ?
+  A) A) ପ୍ରବନ୍ଧାତ୍ମକ
+  B) B) ବସ୍ତୁନିଷ୍ଠ
+  C) C) ମୌଖିକ
+  D) D) ଉପରୋକ୍ତ ସମସ୍ତ
+----------------------------------------
+ID:1 | Sub:CDP | Q:Measure of scholastic development can be done using which of the following test ?
+  A) A) Essay type
+  B) B) Objective
+  C) C) Oral
+  D) D) All of these
+----------------------------------------
+ID:2 | Sub:CDP | Q:ନିମ୍ନଲିଖୁତ ମଧ୍ୟରୁ କେଉଁଟି ଏକ ଅଣପରୀକ୍ଷଣ ପଦ୍ଧତି ନୁହେଁ ?
+  A) A) ଆଗ୍ରହ ପରିମାପକ ସୂଚୀ
+  B) B) ଅଭିଯୋଜନ ପରିମାପକ ସୂଚୀ
+  C) C) ରେଟିଙ୍ଗ ମାପନ
+  D) D) କାର୍ଯ୍ୟଦକ୍ଷତା ପରୀକ୍ଷା
+----------------------------------------
+ID:2 | Sub:CDP | Q:Which of the following is not a non-testing technique ?
+  A) A) Interest inventory
+  B) B) Adjustment inventory
+  C) C) Rating scale
+  D) D) Work skill test
+----------------------------------------
+ID:3 | Sub:CDP | Q:ଜର୍ମାନ ମନୋବିଜ୍ଞାନୀଙ୍କ ନାମ କ'ଣ ଥିଲା ଯିଏ ସୁଲତାନ ନାମକ ଏକ ଚିମ୍ପାଞ୍ଜି ଉପରେ ଶିକ୍ଷଣ ପରୀକ୍ଷା କରିଥିଲେ?
+  A) A) ଗେଷ୍ଟାଲ୍ଟ
+  B) B) ଥଣ୍ଡାଇକ
+  C) C) ୱାଟସନ
+  D) D) କୋହଲର
+----------------------------------------
+ID:3 | Sub:CDP | Q:What was the name of the German psychologist, who conducted his experiment on learning over a Chimpanzee named as Sultan ?
+  A) A) Gestalt
+  B) B) Thorndike
+  C) C) Watson
+  D) D) Kohler
+----------------------------------------
+ID:4 | Sub:CDP | Q:ନିମ୍ନରୁ ମଧ୍ୟରୁ କେଉଁଟି ଶିଶୁମାନ ଶିକ୍ଷଣ ପ୍ରକ୍ରିୟାରେ ଶିଶୁର କେନ୍ଦ୍ରୀୟ ପ୍ରକ୍ରିୟା ବର୍ଣ୍ଣନ କରେ ନାହିଁ?
+  A) ଏହା ଆନନ୍ଦଦାୟକ ଓ କ୍ରୀଡା ମନୋବୃତ୍ତି ଅଟେ
+  B) ଶିକ୍ଷାର୍ଥୀ ନିଜର ଜ୍ଞାନକୁ ନିର୍ମାଣ କରିଥାଏ
+  C) ଶିକ୍ଷକର ପ୍ରଚେଷ୍ଟାରେ ଶିକ୍ଷାର୍ଥୀ ଶ୍ରେଣୀ କକ୍ଷରେ ସକ୍ରିୟ ଥାଏ
+  D) ଏହା ଏକ ପୂର୍ବ ନିର୍ଦ୍ଧାରିତ ପଦ୍ଧତି ଅଟେ
+----------------------------------------
+ID:4 | Sub:CDP | Q:Which of the following is not a characteristic of child centred approach in teaching learning process?
+  A) It is joyful and game oriented
+  B) Learner discovers knowledge
+  C) With the teacher's effort learner becomes active inside the classroom
+  D) It is a prescribed approach
+----------------------------------------
+ID:5 | Sub:CDP | Q:ଗଠନ ପ୍ରଶ୍ନ ଗଠନ କରିବା ନିମନ୍ତେ କେଉଁ ଲକ୍ଷଣକୁ ଗୁରୁତ୍ଵ ଦେବାକୁ ହୋଇଥାଏ?
+  A) ସ୍ପଷ୍ଟତା
+  B) ନିର୍ଦ୍ଦିଷ୍ଟତା
+  C) ପ୍ରାସଙ୍ଗିକତା
+  D) ଉପରୋକ୍ତ ସମସ୍ତ
+----------------------------------------
+ID:5 | Sub:CDP | Q:To frame a model question, which characteristic should be taken care of?
+  A) Clarity
+  B) Specificity
+  C) Relevancy
+  D) All of these
+----------------------------------------
+ID:6 | Sub:CDP | Q:ଶୂନ୍ୟ ସ୍ଥାନ ପୂରଣ କର: ______ ଜ୍ଞାନକୁ ପ୍ରତିଷ୍ଠା, ବିକାଶ ଓ ସଂପ୍ରସାରଣ ନିମନ୍ତେ ପ୍ରବେଶ ମାର୍ଗ ଅଟେ।
+  A) ବିଦ୍ୟାଳୟ
+  B) ପରିବେଶ
+  C) ପରିବାର
+  D) ଇନ୍ଦ୍ରିୟାନୁଭୂତି
+----------------------------------------
+ID:6 | Sub:CDP | Q:Fill in the blank: __________ is/are the gateways to establish, develop and extension of knowledge.
+  A) School
+  B) Environment
+  C) Family
+  D) Senses
+----------------------------------------
+ID:7 | Sub:CDP | Q:ଶିକ୍ଷଣ ନିମନ୍ତେ ଦାୟିତ୍ଵ ଗ୍ରହଣ ପାଇଁ ଜଣେ ଶିକ୍ଷାର୍ଥୀ ପ୍ରେରିତ ହେବାକୁ କ'ଣ କୁହାଯାଏ ?
+  A) ଶିକ୍ଷାର୍ଥୀ କେନ୍ଦ୍ରିତ
+  B) ଶିକ୍ଷକ କେନ୍ଦ୍ରିତ
+  C) ଶିକ୍ଷଣ କେନ୍ଦ୍ରିତ
+  D) ପୁସ୍ତକ କେନ୍ଦ୍ରିତ
+----------------------------------------
+ID:7 | Sub:CDP | Q:When a child is motivated to accept responsibility for learning is called
+  A) Learner centred
+  B) Teacher centred
+  C) Learning centred
+  D) Book centred
+----------------------------------------
+ID:8 | Sub:CDP | Q:Graphs are categorised under which group of learning materials ?
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:9 | Sub:CDP | Q:Which of the following is a factor affecting reliability of a test ?
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:10 | Sub:CDP | Q:The measure of the spread or variability of scores in a data is called as
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:11 | Sub:CDP | Q:Who is the father of micro-teaching ?
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:12 | Sub:CDP | Q:Which psychologist coined the terms “Storms and Stress” in Adolescence ?
+  A) Clark Hull
+  B) Kohlberg
+  C) Stanley Hall
+  D) Bruner
+----------------------------------------
+ID:13 | Sub:CDP | Q:According to whom, “value” in human life is a strong interest of human personality ?
+  A) Allport
+  B) Pluto
+  C) Josh Billings
+  D) Mack Claski
+----------------------------------------
+ID:14 | Sub:CDP | Q:Who developed creativity test for the first time ?
+  A) Travers
+  B) Guilford
+  C) Torrance
+  D) Paina
+----------------------------------------
+ID:15 | Sub:CDP | Q:What is the purpose of formative evaluation ?
+  A) Decision of what to measure
+  B) To assess achievement at the end of term
+  C) To assess the progress of learning
+  D) To find out learning difficulties
+----------------------------------------
+ID:16 | Sub:CDP | Q:Test that measures learning outcome of students is
+  A) A) Achievement test
+  B) B) Intelligence test
+  C) C) Aptitude test
+  D) D) Creativity test
+----------------------------------------
+ID:17 | Sub:CDP | Q:If mean of 25, 29, 25, 32, 24 and x is 27, then what will be the median ?
+  A) A) 32
+  B) B) 27
+  C) C) 26
+  D) D) 25
+----------------------------------------
+ID:18 | Sub:CDP | Q:If mean and mode of a data are 4 and 10 respectively, what will be its median ?
+  A) A) 1.5
+  B) B) 5.3
+  C) C) 16
+  D) D) 6
+----------------------------------------
+ID:19 | Sub:CDP | Q:Which of the following is not a principle of development ?
+  A) A) Uniformity
+  B) B) Continuity
+  C) C) Individual difference
+  D) D) Predictability
+----------------------------------------
+ID:20 | Sub:CDP | Q:Which of the following factors has least effect on learning ?
+  A) Fatigue
+  B) Age
+  C) Illness
+  D) Gender difference
+----------------------------------------
+ID:21 | Sub:CDP | Q:Which of the following statement about reliability of a test is correct ?
+  A) Reliability is fixed for a given test
+  B) It varies from sample to sample
+  C) It is not affected by the size of the sample
+  D) High reliability ensures high validity
+----------------------------------------
+ID:22 | Sub:CDP | Q:Which characteristic of creative thinking differs it from other general thinking process ?
+  A) Divergence
+  B) Originality
+  C) Fluency
+  D) All of these
+----------------------------------------
+ID:23 | Sub:CDP | Q:When a teacher decides teaching method, learning activities and techniques for the students is known as
+  A) Learning centric
+  B) Learner centric
+  C) Teacher centric
+  D) None of these
+----------------------------------------
+ID:24 | Sub:CDP | Q:Which of the following statement is correct in case of learner centered approach ?
+  A) Allows students to interact with their teams through discussion and learning activities
+  B) Passively waiting for teacher's instruction
+  C) Collaboration is discouraged
+  D) Does not give importance to student's voice
+----------------------------------------
+ID:25 | Sub:CDP | Q:Which of the following is not a learner related factor affecting learning ?
+  A) Attention
+  B) Motivation
+  C) Goals
+  D) Communication
+----------------------------------------
+ID:26 | Sub:CDP | Q:In lower classes, play-way method of teaching is based on
+  A) Physical education programme
+  B) Theories of methods of teaching
+  C) Psychological principles of growth and development
+  D) Sociological principles of teaching
+----------------------------------------
+ID:27 | Sub:CDP | Q:The variance of a set of data is 196, then the standard deviation of the data is
+  A) A: ± 14
+  B) B: 14
+  C) C: 96
+  D) D: 98
+----------------------------------------
+ID:28 | Sub:CDP | Q:"The education of the disabled children should be an inseparable part of the education system for which integrated programme is necessary." This was the recommendation of which commission?
+  A) A: Mudaliar
+  B) B: Kothari
+  C) C: Radhakrishnan
+  D) D: Sergent Report
+----------------------------------------
+ID:29 | Sub:CDP | Q:Which type of teaching aid is a 'Model'?
+  A) A: Dimensional
+  B) B: Display
+  C) C: Projected
+  D) D: None of these
+----------------------------------------
+ID:30 | Sub:CDP | Q:Social constructivism in teaching focuses on
+  A) A: Examination oriented learning
+  B) B: Information oriented learning
+  C) C: Experiential learning
+  D) D: Passive learning
+----------------------------------------
+ID:31 | Sub:Odia | Q:ଗଛୁଆ ଓ ନାନୀ ଠିକାଳି ପାଇଁ ଶିକ୍ଷକ ରୂପେ ଦୁଇଜଣକ ମେଳି କରି ରହିବ ?
+  A) ମଧ୍ୟମ ମେଳି
+  B) ମନୋଯୋଗ୍ୟ ପ୍ରଶ୍ନ
+  C) ଯୋଗାଣ ପ୍ରଶ୍ନ
+  D) ବ୍ୟାବସାୟିକ ଦୂରଦର୍ଶିତା
+----------------------------------------
+ID:32 | Sub:Odia | Q:କେଉଁଟି ଶିକ୍ଷାବିତ୍ମାନଙ୍କ ମାନସିକ ପରିବର୍ତ୍ତନର ପ୍ରବେଶ ଅଭିବ୍ୟକ୍ତି ?
+  A) ଅଭିରତ ଶିକ୍ଷଣ
+  B) ପୌଷ୍ୟ ଖଣ୍ଡ
+  C) ପରିପୂର୍ଣ୍ଣତା ଅନୁଭବ
+  D) ଶିକ୍ଷାର ଅବ୍ୟବସ୍ଥା
+----------------------------------------
+ID:33 | Sub:Odia | Q:ନିମ୍ନୋକ୍ତ କେଉଁ ଉକ୍ତିଟି ଅର୍ଥ 'ପ୍ରବେଶ' ?
+  A) ଆତ୍ମ ସଚେତନ
+  B) ଆତ୍ମ ସାହାଯ୍ୟ
+  C) ଆତ୍ମ ସମ୍ମାନ
+  D) ଆତ୍ମ ସୁସମ୍ପର୍କ
+----------------------------------------
+ID:34 | Sub:Odia | Q:'ତଳେ ପତାକା' – ଉକ୍ତିଟିର ଅର୍ଥ କ'ଣ ?
+  A) ଅନାବଶ୍ୟକ କାର୍ଯ୍ୟ
+  B) ଅସମ୍ଭାଳ ବ୍ୟକ୍ତିର କାର୍ଯ୍ୟ
+  C) ପ୍ରଶ୍ନ କରିବା
+  D) ଅସମର୍ଥତା
+----------------------------------------
+ID:35 | Sub:Odia | Q:କେଉଁଟି ଏକ ଅନୁଭବର ଉପବିଭାଗ ହୋଇପାରେ ନାହିଁ କିମ୍ବା ନୁହେଁ ?
+  A) ନିରୀକ୍ଷଣ ଓ ଶିଶୁ ପ୍ରବୃତ୍ତିର ପ୍ରବେଶ ଅନୁଭବ
+  B) ପ୍ରକୃତ ସ୍ଥାନୀୟ ପ୍ରବେଶ
+  C) ସମାଜର ଅବଶ୍ୟକ ମିଳିତ କ୍ରିୟା
+  D) ସମାବେଶ ମାଧ୍ୟମ ଶିକ୍ଷା
+----------------------------------------
+ID:36 | Sub:Odia | Q:ଶିକ୍ଷକ ମୂଲ୍ୟ କ'ଣ ହୁଏ ?
+  A) ମୂଲ୍ୟମାନ କାର୍ଯ୍ୟ
+  B) ନିର୍ଦ୍ଧାରଣ କାର୍ଯ୍ୟ
+  C) ସାହାଯ୍ୟ କରିବା
+  D) ସହାୟତା ପାଣ୍ଠି
+----------------------------------------
+ID:37 | Sub:Odia | Q:'ଅ' ତିନି ଅକ୍ଷରୀ ଅନୁଭବ ପ୍ରକ୍ରିୟା ପରେ ଅନୁଭବ ଉତ୍ପନ୍ନ ହୁଏ, ତାହା କ'ଣ ?
+  A) 'ଉ' ରୂପ
+  B) ଜ୍ଞାନୀୟ
+  C) 'ପ' ରୂପ
+  D) 'ଭ' ରୂପ
+----------------------------------------
+ID:38 | Sub:Odia | Q:ଶିକ୍ଷକ ମାନସିକତା କେଉଁ ଅର୍ଥରେ ବୁଝାଯିବ ? ଏଥିରେ କେଉଁ ତିନୋଟି ବିକଳ୍ପ ସବୁଠାରୁ ଉପଯୁକ୍ତ ?
+  A) ମୂଳ, ଯୋଜନା ଟିପ୍ପଣୀ
+  B) ମୂଳ, ଯୋଜନା ଟିପ୍ପଣୀ, ସୂଚନା ଟିପ୍ପଣୀ, ପ୍ରଶ୍ନକର୍ତ୍ତା
+  C) ମୂଳ, ଯୋଜନା ଟିପ୍ପଣୀ, ସୂଚନା
+  D) ସୂଚନା ଟିପ୍ପଣୀ, ମୂଳ, ଯୋଜନା ଟିପ୍ପଣୀ
+----------------------------------------
+ID:39 | Sub:Odia | Q:ବ୍ୟକ୍ତିତ୍ୱ ପ୍ରବେଶର ଗୁଣ ମଡେଲ ଏବଂ ଶିକ୍ଷକ କେଉଁ ଅନୁଭବରେ ପ୍ରବେଶ କରନ୍ତି?
+  A) ସକାରାତ୍ମକ ପ୍ରତିକ୍ରିୟା ଟିପ୍ପଣୀ
+  B) ନିମ୍ନ ସ୍ତରୀୟ ପ୍ରତିକ୍ରିୟା ଟିପ୍ପଣୀ
+  C) ଆତ୍ମବିଶ୍ୱାସ
+  D) ଶିକ୍ଷକ କେନ୍ଦ୍ରୀୟ ଶିକ୍ଷଣ ପଦ୍ଧତି
+----------------------------------------
+ID:40 | Sub:Odia | Q:ଶିଶୁମାନଙ୍କ ଆଚରଣରେ ପରିବର୍ତ୍ତନ ଆଣିବା ସମ୍ଭବ ହୋଇଥାଏ ।
+  A) ପଠନ
+  B) ପରିବେଶ
+  C) ଶିକ୍ଷା
+  D) ମତିଗତି
+----------------------------------------
+ID:41 | Sub:Odia | Q:ସମସ୍ୟା ସମାଧାନ ପଦ୍ଧତିର କର୍ତ୍ତା ପ୍ରଣାଳୀକୁ କ’ଣ କୁହାଯାଏ ?
+  A) ସମସ୍ୟା
+  B) ଉତ୍ତର
+  C) ସାକ୍ଷାତ୍କାର
+  D) ସମାଧାନ
+----------------------------------------
+ID:42 | Sub:Odia | Q:ଓଡ଼ିଆ ଭାଷା ଅନୁବାଦରେ କେଉଁ ଶବ୍ଦଟି ଶୁଦ୍ଧ ?
+  A) ଶବ୍ଦାବଳି
+  B) ଶବ୍ଦାବଳୀ
+  C) ଶବ୍ଦାୟମ
+  D) ଶବ୍ଦାଳୟ
+----------------------------------------
+ID:43 | Sub:Odia | Q:ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଶାରୀରିକ ଓ ବୌଦ୍ଧିକ ପ୍ରଶିକ୍ଷଣ ସହ ସମ୍ବନ୍ଧିତ ନୁହେଁ ?
+  A) କେଳର ଆଲବ୍
+  B) ଶାରୀରିକ ଶିକ୍ଷା
+  C) ପ୍ରଶାସନ ମିଶନ
+  D) ସୂକ୍ଷ୍ମ ଶକ୍ତି
+----------------------------------------
+ID:44 | Sub:Odia | Q:ଶିକ୍ଷାର୍ଥୀମାନଙ୍କ ପାଖରେ କେଉଁ ଗୁଣ ଏବଂ ଶାରୀରିକ ସମସ୍ତ କାର୍ଯ୍ୟରୁ ଜ୍ଞାନ ଆଦି ଏବଂ ପ୍ରଗାଢ଼ ଶିକ୍ଷାଦାନ ବ୍ୟବସ୍ଥା କରାଯିବା ଅନୁଚିତ ?
+  A) ଶାରୀରିକ ଦକ୍ଷତା
+  B) ବୌଦ୍ଧିକ ଦକ୍ଷତା
+  C) ଆବେଗିକ ପ୍ରଶିକ୍ଷଣ
+  D) ସାମାଜିକ ପ୍ରଶିକ୍ଷଣ
+----------------------------------------
+ID:45 | Sub:Odia | Q:“ଜନନୀ ପ୍ରଦୀପା କାଳ ନ ହି ଅର୍ଥ ହେବି” - ଏହାରୁ ଏକ ପଦରେ ପ୍ରଗତି କଲେ କ’ଣ ହେବ?
+  A) ପ୍ରଦୀପ
+  B) ମଧ୍ୟ ପ୍ରଦୀପ
+  C) ମଧ୍ୟ ପ୍ରଦୀପନ
+  D) ପ୍ରଦୀପ ମାଳ
+----------------------------------------
+ID:46 | Sub:Odia | Q:‘ସେମାନେ ରୋଗୀ’ ବାକ୍ୟର ସଠିକ ଅର୍ଥ କ’ଣ?
+  A) ସେମାନେ ରୋଗରେ
+  B) ରୋଗୀମାନେ ଛାଡ
+  C) ରୋଗରୁ ମୁକ୍ତି
+  D) ରୋଗୀମାନଙ୍କୁ ମାରା
+----------------------------------------
+ID:47 | Sub:Odia | Q:‘ସାପରାଡ଼ି’, ଏଥିରେ ‘ସାପ’ ପଦଟି କେଉଁ ପ୍ରକାରର ଅଧିକାର?
+  A) ଧନାତ୍ମକ
+  B) ପରିସୀମାସୂଚକ
+  C) ବାବୁ ରୋଡ଼
+  D) ସମୀକ୍ଷାତ୍ମକ
+----------------------------------------
+ID:48 | Sub:Odia | Q:ନିମ୍ନରୁ ମଧ୍ୟରୁ କେଉଁଟି ‘ଆସାମୀ ବର୍ଗୀକରଣ’ ରୁହିତ ହେବ?
+  A) କେନ୍ଦ୍ର
+  B) ଛୁଆ
+  C) ଜନସାଧାରଣ
+  D) ବେସରକାରୀ
+----------------------------------------
+ID:49 | Sub:Odia | Q:ପର୍ଯ୍ୟବେକ୍ଷଣର ଅର୍ଥ କ’ଣ?
+  A) ପରୀକ୍ଷା
+  B) ଅନୁସରଣ
+  C) ବିଭାଗ କର୍ତ୍ତା
+  D) ଅନୁସନ୍ଧାନ ଏବଂ ସମସ୍ୟା ସମାଧାନ
+----------------------------------------
+ID:50 | Sub:Odia | Q:ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଶିକ୍ଷଣର ଗୁଣ ନୁହେଁ?
+  A) ଏହା ଏକ ଆଚରଣଗତ ପରିବର୍ତ୍ତନ
+  B) ଏହା ଏକ ଉଦ୍ଦେଶ୍ୟପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟ
+  C) ଏହା ଏକ ନିଷ୍କ୍ରିୟ ପ୍ରକ୍ରିୟା
+  D) ଶିକ୍ଷଣ ହେଉଛି ଜମାଟ
+----------------------------------------
+ID:51 | Sub:Odia | Q:‘କୋଳିକଳ ଡୁଡୁ ଡାକ’ କବିତାର ଅର୍ଥ କ’ଣ?
+  A) ଡୁଡୁ ଡୁଡୁ
+  B) ଶୁଭ ସ୍ଵର
+  C) ଲୋକମେଳ ମଧ୍ୟରୁ ସ୍ଵର
+  D) ଉପରୋକ୍ତ କୌଣସିଟି ନୁହେଁ
+----------------------------------------
+ID:52 | Sub:Odia | Q:କାହାକୁ ଡାକି ଲଳନା କୋଳିକଳ ଡୁଡୁଆଇଛି?
+  A) ହେଲା
+  B) ନୂଆ
+  C) ସନ୍ତୁ
+  D) କଳକ
+----------------------------------------
+ID:53 | Sub:Odia | Q:ନିଜେ କନିମ ତଳେ କୋଳିକଳ କୋଳି କାହାକୁ ବୁଝାଇଲାକି?
+  A) ମାଲିକକୁ
+  B) ମାମୁଁକୁ
+  C) କାକାଙ୍କୁ
+  D) କୁକ୍କୁଳକୁ
+----------------------------------------
+ID:54 | Sub:Odia | Q:ସକଳୋଡ଼ି ପଡ଼େ କଳ ଡୁଡୁ କାହାକୁ ଧରି କୋଳି ମିଶିବ?
+  A) ଆଗଜ
+  B) ବେଳକ
+  C) ନିର୍ଭର
+  D) ହେଲା
+----------------------------------------
+ID:55 | Sub:Odia | Q:‘ଡୁଡୁ ଜଣକ ରାଜା’ – ଏ କଥା କିଏ କାହାକୁ କହିଅଛି?
+  A) ଜଣକ କହିଛି ଅନ୍ତରକୁ
+  B) ସନ୍ତୁ କହିଛି ମାମୁଁକୁ
+  C) ନୂଆ କହିଛି କାକାକୁ
+  D) ଜଣକ କହିଛି ମାମୁଁକୁ
+----------------------------------------
+ID:56 | Sub:Odia | Q:କେଉଁଟି ଠିକ୍ ?
+  A) ଗୁରୁତ୍ୱ ଶାନ୍ତି ନିଜେ
+  B) ଶାନ୍ତିରୁ ଗୁଣ ନିଜେ
+  C) ସମଗ୍ରରୁ ଗୁଣ ନିଜେ
+  D) ଗୁରୁତ୍ୱ ସମିତି ନିଜେ
+----------------------------------------
+ID:57 | Sub:Odia | Q:ଅନ୍ୟମାନଙ୍କ ସମର୍ଥନେ ଆମ ମନର ସ୍ୱାୟତ୍ତ କ୍ଷମତା ହ୍ରାସ ହୁଏ...
+  A) ଆମକୁ ଓ ସେମାନଙ୍କ ମନରେ ପ୍ରଭାବ ପକାଇ ହୁଏ
+  B) ଆମକୁ ଓ ସେମାନଙ୍କ ମନରେ ବିଭେଦ କରି ହୁଏ
+  C) ଆମକୁ ଓ ସେମାନଙ୍କ ମନରେ ବିଭେଦ ଓ ପ୍ରଭାବ କାଢି ହୁଏ
+  D) ସେମାନଙ୍କ ପ୍ରତି ଆମ ମନରେ ବିଭେଦ ଓ ପ୍ରଭାବ କାଢି ହୁଏ
+----------------------------------------
+ID:58 | Sub:Odia | Q:ପ୍ରକୃତ ସହଯୋଗ ହେଉଛି....
+  A) ଆମ ମନ ନିଜରେ ସବୁଠାରୁ ଭଲ ଛିନ୍ନ ନହେବା
+  B) ଅନ୍ୟମାନଙ୍କ ହିତ ସାଧନ କରେ
+  C) ମନ ନିଜରେ ଭଲ କ୍ଷମତା ରଖିବା
+  D) ସହଯୋଗ ଓ ସମଗ୍ର
+----------------------------------------
+ID:59 | Sub:Odia | Q:ନିଜର ଶାନ୍ତିରେ ରହିବାରେ କ’ଣ ନାହିଁ ?
+  A) ନିଜର ସବୁଠାରୁ ଶାନ୍ତି ରହିଲେ
+  B) ଶାନ୍ତି ସାକ୍ଷାତ ରହି ନାହିଁ
+  C) ଶାନ୍ତି ସମଗ୍ର ନିରୋଳି
+  D) ସହଯୋଗ ସମଗ୍ର
+----------------------------------------
+ID:60 | Sub:Odia | Q:ମନର ଶାନ୍ତି ପାଇଁ କଣ କରିବା?
+  A) ଅନ୍ୟକୁ ସହାନୁଭୂତି ଦେବା
+  B) ଅନ୍ୟକୁ ସ୍ୱାଭିମାନୀ କରିବା
+  C) ଅନ୍ୟକୁ ଭଲ କ୍ଷମତା
+  D) ସହଯୋଗ ଓ ଲୋଭ ଛାଡିଦେବା
+----------------------------------------
+ID:61 | Sub:English | Q:Find the correct sentence from among the following :
+  A) He is a strange man, isn't he ?
+  B) He is a strange man, isn't it ?
+  C) He is a strange man, is not he ?
+  D) He is a strange man, is he not ?
+----------------------------------------
+ID:62 | Sub:English | Q:Identify the grammatically acceptable sentence:
+  A) School begins at 10 O'clock
+  B) School begins at 10 o'clock
+  C) The school begins at 10 O'clock
+  D) A school begins at 10 O'clock
+----------------------------------------
+ID:63 | Sub:English | Q:Which of the following is not a correct statement ?
+  A) Assessment during teaching-learning process is more useful.
+  B) Summative assessment is useful for redesigning the strategies.
+  C) Formative assessment provides feedback.
+  D) Assessment is ultimately useful for improving teaching-learning process.
+----------------------------------------
+ID:64 | Sub:English | Q:Which of the following implies "to utter with more degree of force" ?
+  A) Stress
+  B) Intonation
+  C) Pronunciation
+  D) Pause
+----------------------------------------
+ID:65 | Sub:English | Q:The process of dividing a sentence into a few sense groups while reading is known as
+  A) eye-span
+  B) chunking
+  C) skimming
+  D) scanning
+----------------------------------------
+ID:66 | Sub:English | Q:Primary requirement for writing a composition/essay is
+  A) sequencing
+  B) vocabulary
+  C) idea
+  D) style
+----------------------------------------
+ID:67 | Sub:English | Q:The book is interesting to read. The underlying word is a/an
+  A) (A) adverb
+  B) (B) noun
+  C) (C) verb
+  D) (D) adjective
+----------------------------------------
+ID:68 | Sub:English | Q:I can't lift the box. The full form of "can't" is
+  A) (A) canot
+  B) (B) can not
+  C) (C) cannot
+  D) (D) cannut
+----------------------------------------
+ID:69 | Sub:English | Q:Reading an unseen passage in the examination hall comes under
+  A) (A) extensive reading
+  B) (B) reading for pleasure
+  C) (C) make happy the evaluator
+  D) (D) intensive reading
+----------------------------------------
+ID:70 | Sub:English | Q:Which of the following is considered receptive skills ?
+  A) (A) Listening and reading
+  B) (B) Reading and writing
+  C) (C) Listening and speaking
+  D) (D) Speaking and reading
+----------------------------------------
+ID:71 | Sub:English | Q:The word 'I' used in the poem refers to
+  A) (A) the sun
+  B) (B) the rain
+  C) (C) the green leaves
+  D) (D) the poet
+----------------------------------------
+ID:72 | Sub:English | Q:"Leaves on top" represent
+  A) (A) Rich people
+  B) (B) Poor people
+  C) (C) Green leaves
+  D) (D) the poet and the sun
+----------------------------------------
+ID:73 | Sub:English | Q:The poem is primarily about
+  A) (A) mankind
+  B) (B) the sun
+  C) (C) rain
+  D) (D) green leaves
+----------------------------------------
+ID:74 | Sub:English | Q:Which among the following is nearest in meaning to the word 'wonderous' ?
+  A) (A) marvellous
+  B) (B) unexciting
+  C) (C) tiresome
+  D) (D) tedious
+----------------------------------------
+ID:75 | Sub:English | Q:Which among the following is a symbol of hope in the poem ?
+  A) (A) rain
+  B) (B) sweet noise
+  C) (C) the sun
+  D) (D) green leaves
+----------------------------------------
+ID:76 | Sub:English | Q:Choose the most appropriate answer from among the following : Your answer is _________ right.
+  A) (A) hundred per cent
+  B) (B) hundred percent
+  C) (C) a hundred per cent
+  D) (D) cent percent
+----------------------------------------
+ID:77 | Sub:English | Q:Identify the correct spelt word.
+  A) (A) Vacuum
+  B) (B) Vacum
+  C) (C) Vacc um
+  D) (D) Vaccum
+----------------------------------------
+ID:78 | Sub:English | Q:Which of the following is useful for learning language at the beginning ?
+  A) (A) Teaching
+  B) (B) Explanation
+  C) (C) Persuation
+  D) (D) Exposure
+----------------------------------------
+ID:79 | Sub:English | Q:Which language skill competency is considered most important in teaching- learning English in India ?
+  A) (A) Listening
+  B) (B) Speaking
+  C) (C) Reading
+  D) (D) Writing
+----------------------------------------
+ID:80 | Sub:English | Q:Identify the grammatically acceptable sentence from among the following :
+  A) (A) He is tired and so you are
+  B) (B) He is tired so you are
+  C) (C) He is tired and so are you
+  D) (D) He is tired and so are you ?
+----------------------------------------
+ID:81 | Sub:English | Q:Find the correct sentence from among the following :
+  A) I will have you all to speak English well within a year.
+  B) I will have you all speaking English well within a year.
+  C) I will have you all speak English well within a year.
+  D) I will have you all of speaking English well within a year.
+----------------------------------------
+ID:82 | Sub:English | Q:Primary objective of teaching-learning English in India is to
+  A) ensure better employment
+  B) persue higher education
+  C) develop communication skills
+  D) remain updated about developments
+----------------------------------------
+ID:83 | Sub:English | Q:Identify the false statement.
+  A) English empowers people to get any information offered by the internet.
+  B) English has not only become a trend but upmarked pursuit also.
+  C) English as a second language is not available in Odisha State.
+  D) English is a link language.
+----------------------------------------
+ID:84 | Sub:English | Q:Complete the answer to the question. "What time does the bus leave ?", Mohan asked me. Mohan asked me what time the bus ______ .
+  A) left
+  B) had left
+  C) leaves
+  D) is leaving
+----------------------------------------
+ID:85 | Sub:English | Q:Identify the most appropriate and right sentence:
+  A) You should avail of every opportunity to practise speaking English.
+  B) You should avail yourself of every opportunity to practise speaking English.
+  C) You should avail yourself every opportunity to practise speaking English.
+  D) You should avail every opportunity to practise speaking English.
+----------------------------------------
+ID:86 | Sub:English | Q:The man who went to sea in his boat did not return to the king probably because he
+  A) had no more complaints
+  B) was on a long voyage
+  C) was afraid of the king
+  D) was drowned in the sea
+----------------------------------------
+ID:87 | Sub:English | Q:The first man was happier in his little hut than in the palace because
+  A) he could lead a simple, carefree life
+  B) the palace was too big for him
+  C) people did not treat him like a king
+  D) he was too humble to live in a palace
+----------------------------------------
+ID:88 | Sub:English | Q:The phrase “put out to sea” in the passage means
+  A) condemned
+  B) set sail
+  C) set free
+  D) put an end to
+----------------------------------------
+ID:89 | Sub:English | Q:The three dissatisfied persons in the passage must have learnt the lesson that
+  A) there should be a limit to one's desires
+  B) others can make one happy
+  C) things do not turn out as well as expected
+  D) future joys are sweeter than the present ones
+----------------------------------------
+ID:90 | Sub:English | Q:The main purpose of the passage is to
+  A) tell us an amusing story
+  B) bring out a moral
+  C) throw light on the king's greatness
+  D) show how foolish individuals can be
+----------------------------------------
+ID:91 | Sub:History | Q:Approximately what percent of the total volume of India has alluvial soil ?
+  A) 25
+  B) 43
+  C) 65
+  D) 83
+----------------------------------------
+ID:92 | Sub:History | Q:_________ zone of the Earth receives direct rays of sun.
+  A) Frigid
+  B) Temperate
+  C) Torrid
+  D) All of the above
+----------------------------------------
+ID:93 | Sub:History | Q:Which of the following battle paved the way for the foundation of Mughal Empire in India ?
+  A) First Battle of Panipat
+  B) Second Battle of Panipat
+  C) Battle of Plassey
+  D) Battle of Tarain
+----------------------------------------
+ID:94 | Sub:History | Q:Which of the following Lodi ruler introduced the Gaz-i-Sikandari to measure the land?
+  A) Bahlol Lodi
+  B) Ibrahim Lodi
+  C) Sikander Lodi
+  D) All of the above
+----------------------------------------
+ID:95 | Sub:History | Q:Which of the following is correct in laboratory method of teaching geography?
+  A) Learning by doing, imitation and memorisation
+  B) Learning by doing, observation and imitation
+  C) Learning by investigation, observation and memorisation
+  D) Learning by doing, observation and investigation
+----------------------------------------
+ID:96 | Sub:History | Q:Which of the following method is applicable while teaching international date line in geography?
+  A) Indirect observation-cum-Discussion
+  B) Direct observation-cum-Discussion
+  C) Only Discussion
+  D) All of the above
+----------------------------------------
+ID:97 | Sub:History | Q:A landmass bounded by sea on three sides is referred to as
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:98 | Sub:History | Q:The highest peak in the Eastern Ghats is
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:99 | Sub:History | Q:Who was the first woman Chief Minister of Independent India ?
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:100 | Sub:History | Q:The three tier system of local government does not include the
+  A) A
+  B) B
+  C) C
+  D) D
+----------------------------------------
+ID:101 | Sub:History | Q:Which institution suggested guideline for class wise distribution of Indian History syllabus for upper primary stage ?
+  A) NCERT
+  B) NCTE
+  C) ICHR
+  D) UGC
+----------------------------------------
+ID:102 | Sub:History | Q:Biographical method of teaching history based on which theory ?
+  A) Cultural epoch
+  B) Great man
+  C) Cyclic
+  D) Developmental
+----------------------------------------
+ID:103 | Sub:History | Q:Which one amongst the following rivers flows through a rift valley ?
+  A) Mahanadi
+  B) Tapti
+  C) Kaveri
+  D) Brahmaputra
+----------------------------------------
+ID:104 | Sub:History | Q:The situation like "13 year old child working in a factory manufacturing carpets" violates, which of the following Fundamental Rights ?
+  A) Right to Equality
+  B) Right to Freedom
+  C) Right Against Exploitation
+  D) Right to Freedom of Religion
+----------------------------------------
+ID:117 | Sub:History | Q:Couple burial was found in which of the following Harappan sites ?
+  A) Mohenjodaro
+  B) Harappa
+  C) Chanhu-daro
+  D) Lothal
+----------------------------------------
+ID:118 | Sub:History | Q:In which year did the East India Company acquire the Diwani of Bengal ?
+  A) 1773
+  B) 1791
+  C) 1765
+  D) None of the above
+----------------------------------------
+ID:119 | Sub:History | Q:According to Prof. Holtz, what are the two aims of geography teaching ?
+  A) Practical and Social
+  B) Practical and Cultural
+  C) Cultural and Artificial
+  D) Artificial and Social
+----------------------------------------
+ID:120 | Sub:History | Q:To know the humidity of the atmosphere which instrument is necessary while teaching geography ?
+  A) Thermometer
+  B) Dry and wet thermometer
+  C) Maximum and minimum thermometer
+  D) Barometer
+----------------------------------------
+ID:133 | Sub:History | Q:The partition of Bengal was cancelled in which year ?
+  A) A) 1906
+  B) B) 1909
+  C) C) 1910
+  D) D) 1911
+----------------------------------------
+ID:134 | Sub:History | Q:The Bourbon dynasty, which had been deposed during the French Revolution, was restored to power after signing the treaty of
+  A) A) Vienna
+  B) B) Constantinople
+  C) C) Marseilles
+  D) D) Prussia
+----------------------------------------
+ID:135 | Sub:History | Q:Which of the following is the objective of teaching history as suggested in guidelines for upper primary stage by NCERT in 1988 ?
+  A) A) To promote an understanding of the major stages in the evolution of Indian society through the ages
+  B) B) Given certain historical happening of similar type and pupils should analyse their causes and develop historical laws
+  C) C) Pupils should know the significant facts in world history
+  D) D) Given certain sources of history, pupil should able to construct history out of them
+----------------------------------------

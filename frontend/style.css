@@ -464,3 +464,22 @@ body {
     border-color: var(--danger);
     text-decoration: line-through;
 }
+
+/* Filter Tabs Styling */
+.filter-tab {
+    border-radius: 9999px;
+    padding: 0.4rem 1rem;
+    font-size: 0.85rem;
+    cursor: pointer;
+    border: 1px solid var(--border);
+    background: white;
+    transition: all 0.2s;
+}
+.filter-tab.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+}
+.filter-tab:hover:not(.active) {
+    background: #f1f5f9;
+}

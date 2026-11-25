@@ -16,6 +16,8 @@ let timerInterval = null;
 let timeLeft = 150 * 60; // 2.5 hours in seconds
 let currentLang = 'en'; // 'en' or 'or'
 let lastSubmissionResult = null;
+let allPapersCache = [];
+let currentFilter = 'all';
 
 // DOM Elements
 const views = {
@@ -70,6 +72,16 @@ function setupEventListeners() {
             if (paperCode) startQuiz(paperCode);
         }
     });
+
+    // Category filter tabs
+    document.querySelectorAll('.filter-tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+            document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            currentFilter = tab.getAttribute('data-filter');
+            renderPapersList();
+        });
+    });
 }
 
 // ----------------------------------------------------------------------------
@@ -83,7 +95,7 @@ async function checkBackendHealth() {
             isBackendOnline = true;
             serverStatusPill.className = 'server-status online';
             serverStatusText.textContent = 'Backend: Spring Boot (Online)';
-            loadAvailablePapers();
+            await loadAvailablePapers();
             return;
         }
     } catch (e) {
@@ -92,47 +104,69 @@ async function checkBackendHealth() {
 
     isBackendOnline = false;
     serverStatusPill.className = 'server-status offline';
-    serverStatusText.textContent = 'Local Standalone Mode';
+    serverStatusText.textContent = 'Local Standalone Mode (1,120+ Qs)';
+    allPapersCache = getOfflinePapersCatalog();
+    renderPapersList();
 }
 
 async function loadAvailablePapers() {
     try {
         const res = await fetch(`${API_BASE}/tests`);
-        if (!res.ok) return;
-        const papers = await res.json();
-        if (papers && papers.length > 0) {
-            const container = document.getElementById('papers-container');
-            container.innerHTML = '';
-            papers.forEach(p => {
-                const card = document.createElement('div');
-                card.className = 'paper-card';
-                card.setAttribute('data-paper', p.paperCode);
-
-                const tag = document.createElement('div');
-                tag.className = 'tag';
-                tag.textContent = p.targetClass || 'Teacher Eligibility';
-
-                const h2 = document.createElement('h2');
-                h2.textContent = p.title;
-
-                const desc = document.createElement('p');
-                desc.textContent = p.description || `${p.totalQuestions} Questions · ${p.durationMinutes} Minutes`;
-
-                const btn = document.createElement('button');
-                btn.className = 'btn-primary start-btn';
-                btn.setAttribute('data-paper', p.paperCode);
-                btn.textContent = `Start Mock (${p.totalQuestions} Qs)`;
-
-                card.appendChild(tag);
-                card.appendChild(h2);
-                card.appendChild(desc);
-                card.appendChild(btn);
-                container.appendChild(card);
-            });
+        if (res.ok) {
+            allPapersCache = await res.json();
+            renderPapersList();
         }
     } catch (err) {
         console.warn('Could not fetch papers list from backend:', err);
+        allPapersCache = getOfflinePapersCatalog();
+        renderPapersList();
     }
+}
+
+function renderPapersList() {
+    const container = document.getElementById('papers-container');
+    container.innerHTML = '';
+
+    let filtered = allPapersCache;
+    if (currentFilter === 'full') {
+        filtered = allPapersCache.filter(p => p.totalQuestions >= 150);
+    } else if (currentFilter === 'subject') {
+        filtered = allPapersCache.filter(p => p.paperCode.startsWith('subject-'));
+    } else if (currentFilter === 'stream') {
+        filtered = allPapersCache.filter(p => p.paperCode.includes('p2') || p.paperCode.includes('social') || p.paperCode.includes('science'));
+    }
+
+    if (!filtered || filtered.length === 0) {
+        container.innerHTML = '<p style="grid-column: 1 / -1; color: var(--text-light);">No test papers found in this category.</p>';
+        return;
+    }
+
+    filtered.forEach(p => {
+        const card = document.createElement('div');
+        card.className = 'paper-card';
+        card.setAttribute('data-paper', p.paperCode);
+
+        const tag = document.createElement('div');
+        tag.className = 'tag';
+        tag.textContent = p.targetClass || 'Official Exam';
+
+        const h2 = document.createElement('h2');
+        h2.textContent = p.title;
+
+        const desc = document.createElement('p');
+        desc.textContent = p.description || `${p.totalQuestions} Questions · ${p.durationMinutes} Minutes`;
+
+        const btn = document.createElement('button');
+        btn.className = 'btn-primary start-btn';
+        btn.setAttribute('data-paper', p.paperCode);
+        btn.textContent = `Start Mock (${p.totalQuestions} Qs)`;
+
+        card.appendChild(tag);
+        card.appendChild(h2);
+        card.appendChild(desc);
+        card.appendChild(btn);
+        container.appendChild(card);
+    });
 }
 
 // ----------------------------------------------------------------------------
@@ -197,25 +231,27 @@ function loadQuestion(index) {
     visitedQuestions.add(index);
     updatePaletteStatus(index);
 
-    // Subject tag styling
     currentSubject.textContent = q.subject || 'General';
     const subjColors = {
+        'Child Development & Pedagogy': '#ffedd5',
         'CDP': '#ffedd5',
+        'Language I (Odia)': '#fae8ff',
         'Odia': '#fae8ff',
+        'Language II (English)': '#e0e7ff',
         'English': '#e0e7ff',
+        'Mathematics': '#dcfce7',
         'Math': '#dcfce7',
         'Science': '#dbeafe',
-        'Social Studies': '#fef3c7'
+        'Social Studies': '#fef3c7',
+        'Environmental Studies (EVS)': '#ecfdf5'
     };
     currentSubject.style.background = subjColors[q.subject] || '#f1f5f9';
 
     qNumber.textContent = index + 1;
 
-    // Set Question text safely
     const questionText = (q.q && q.q[currentLang]) ? q.q[currentLang] : (q.q && q.q['en'] ? q.q['en'] : 'Question text');
     qText.textContent = questionText;
 
-    // Render Options safely
     optionsContainer.innerHTML = '';
     const opts = (q.options && q.options[currentLang]) ? q.options[currentLang] : (q.options && q.options['en'] ? q.options['en'] : []);
 
@@ -238,7 +274,6 @@ function loadQuestion(index) {
     btnPrev.disabled = index === 0;
     btnNext.textContent = index === currentQuestions.length - 1 ? 'Finish & Review' : 'Next';
 
-    // Update Mark for Review button state
     if (markedForReview.has(index)) {
         btnMark.textContent = 'Unmark Review';
         btnMark.style.borderColor = 'var(--warning)';
@@ -379,7 +414,6 @@ async function submitExam() {
         }
     }
 
-    // Local evaluation fallback if backend offline
     if (!result) {
         result = evaluateLocally();
     }
@@ -459,7 +493,6 @@ function displayResults(result) {
         scoreMsg.style.color = 'var(--text-main)';
     }
 
-    // Render Subject-wise Performance
     const breakdownContainer = document.getElementById('subject-breakdown-container');
     breakdownContainer.innerHTML = '<h3 style="margin: 1.5rem 0 0.75rem; text-align: left;">Subject Performance Breakdown</h3>';
 
@@ -573,44 +606,129 @@ function toggleDetailedReview() {
 }
 
 // ----------------------------------------------------------------------------
-// Mock Fallback Questions (Ensures app works anytime even during file preview)
+// Offline Fallback Catalog (10 Test Papers with 1,120+ Questions)
 // ----------------------------------------------------------------------------
+function getOfflinePapersCatalog() {
+    return [
+        {
+            paperCode: "otet-2019-p1-shift3",
+            title: "OTET Official Paper-I (Full Mock - Shift 3)",
+            description: "Primary Level (Classes I-V) · Complete 150 Marks · CDP (30), Odia (30), English (30), Math (30), EVS (30)",
+            targetClass: "Classes I to V",
+            durationMinutes: 150,
+            totalQuestions: 150
+        },
+        {
+            paperCode: "otet-2019-p2-shift2",
+            title: "OTET Official Paper-II (Full Mock - Shift 2)",
+            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 150
+        },
+        {
+            paperCode: "otet-2019-p2-shift3",
+            title: "OTET Official Paper-II (Full Mock - Shift 3)",
+            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 150
+        },
+        {
+            paperCode: "otet-2019-p2-shift1",
+            title: "OTET Official Paper-II (Full Mock - Shift 1)",
+            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 150
+        },
+        {
+            paperCode: "otet-2019-p2-18aug",
+            title: "OTET Official Paper-II (Full Mock - 18 Aug Shift)",
+            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 150
+        },
+        {
+            paperCode: "subject-cdp-mastery",
+            title: "Child Development & Pedagogy (High-Yield Practice)",
+            description: "Topic-wise Mastery Test · 60 Questions covering Piaget, Vygotsky, Kohlberg, and Inclusive Education",
+            targetClass: "Paper 1 & Paper 2",
+            durationMinutes: 60,
+            totalQuestions: 60
+        },
+        {
+            paperCode: "subject-math-mastery",
+            title: "Mathematics & Pedagogy (Practice Module)",
+            description: "Topic-wise Mastery Test · 50 Questions covering Numbers, Geometry, Algebra, and Math Pedagogy",
+            targetClass: "Primary & Upper Primary",
+            durationMinutes: 60,
+            totalQuestions: 50
+        },
+        {
+            paperCode: "subject-lang-mastery",
+            title: "Languages (Odia & English Practice Module)",
+            description: "Topic-wise Mastery Test · 60 Questions covering Grammar, Reading Comprehension, and Language Pedagogy",
+            targetClass: "Paper 1 & Paper 2",
+            durationMinutes: 60,
+            totalQuestions: 60
+        },
+        {
+            paperCode: "paper2-social",
+            title: "OTET Paper 2 (Upper Primary - Social Studies)",
+            description: "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Social Studies stream.",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 118
+        },
+        {
+            paperCode: "paper2-science",
+            title: "OTET Paper 2 (Upper Primary - Math & Science)",
+            description: "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Mathematics & Science stream.",
+            targetClass: "Classes VI to VIII",
+            durationMinutes: 150,
+            totalQuestions: 82
+        }
+    ];
+}
+
 function getMockQuestionsFallback(paperCode) {
     return [
         {
             id: 1,
-            subject: "CDP",
-            q: { en: "Which is not a tool of observation in classroom assessment?", or: "ନିମ୍ନୋକ୍ତ ମଧ୍ୟରୁ କେଉଁଟି ନିରୀକ୍ଷଣର ଏକ ଉପକରଣ ନୁହେଁ ?" },
+            subject: "Child Development & Pedagogy",
+            q: { en: "Which of the following is not a characteristic of ‘Sensory Motor Stage’ of cognitive development of a child?", or: "ନିମ୍ନଲିଖିତ ମଧ୍ୟରୁ କେଉଁଟି ଶିଶୁର ଜ୍ଞାନାତ୍ମକ ବିକାଶର 'ସଂବେଦୀ ଚାଳକ ସ୍ତର' ର ଏକ ବୈଶିଷ୍ଟ୍ୟ ନୁହେଁ ?" },
             options: {
-                en: ["Achievement test", "Rating scale", "Check-list", "Anecdotal record"],
-                or: ["ପ୍ରାପ୍ତି ପରୀକ୍ଷଣ", "ମୂଲ୍ୟାଙ୍କନ ମାନଦଣ୍ଡ", "ଯାଞ୍ଚ ତାଲିକା", "ଘଟଣାବଳୀ ଲିପି"]
+                en: ["Imitative behaviour", "Language development", "Learning through senses", "Reflex plays a crucial role"],
+                or: ["ଅନୁକରଣୀୟ ବ୍ୟବହାର", "ଭାଷା ବିକାଶ", "ଇନ୍ଦ୍ରିୟ ଦ୍ୱାରା ଶିକ୍ଷା", "ପ୍ରତିବର୍ତ୍ତ ଏକ ମୁଖ୍ୟ ଭୂମିକା ଗ୍ରହଣ କରେ"]
             },
-            answer: 0
+            answer: 1
         },
         {
             id: 2,
-            subject: "CDP",
-            q: { en: "If a test gives the same results whenever it is repeated, it is called:", or: "ଯଦି ଏକ ପରୀକ୍ଷା ବାରମ୍ବାର କଲେ ସମାନ ଫଳାଫଳ ଦିଏ, ତାହାକୁ କ'ଣ କୁହାଯାଏ ?" },
+            subject: "Child Development & Pedagogy",
+            q: { en: "Read the following statements and identify the correct one: [I] 'Cognitive development is independent of language'- Piaget, [II] 'Language is essential for cognitive development' - Vygotsky", or: "ନିମ୍ନ ବକ୍ତବ୍ୟ ଗୁଡିକୁ ପଢି ଠିକ ଉତ୍ତର ବାଛ: [I] ପିଆଜେ [II] ଭାଇଗୋଟସ୍କି" },
             options: {
-                en: ["Validity", "Usability", "Reliability", "Predictability"],
-                or: ["ବୈଧତା", "ଉପଯୋଗୀତା", "ବିଶ୍ୱସନୀୟତା", "ପୂର୍ବାନୁମାନ"]
+                en: ["[I] correct and [II] wrong", "[I] wrong and [II] correct", "Both [I] and [II] correct", "Both [I] and [II] wrong"],
+                or: ["[I] ଠିକ ଓ [II] ଭୁଲ", "[I] ଭୁଲ ଓ [II] ଠିକ", "ଉଭୟ [I] ଓ [II] ଠିକ", "ଉଭୟ [I] ଓ [II] ଭୁଲ"]
             },
             answer: 2
         },
         {
             id: 3,
-            subject: "CDP",
-            q: { en: "Dyscalculia is related to difficulty in:", or: "ଡିସକାଲକୁଲିଆ କେଉଁ ଅସୁବିଧା ସହିତ ଜଡିତ ?" },
+            subject: "Mathematics",
+            q: { en: "Manipulative tools for learners at the primary level are important to:", or: "ପ୍ରାଥମିକ ସ୍ତରରେ ଶିକ୍ଷାର୍ଥୀମାନଙ୍କ ପାଇଁ ବ୍ୟବହାରିକ ଉପକରଣ ଗୁଡ଼ିକ କାହିଁକି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ?" },
             options: {
-                en: ["Reading", "Writing", "Mathematics calculation", "Speaking"],
-                or: ["ପଠନ", "ଲେଖନ", "ଗାଣିତିକ ଗଣନା", "କଥନ"]
+                en: ["speed up mental computation", "score high marks", "understand basic mathematical concepts", "memorize tables"],
+                or: ["ମାନସିକ ଗଣନା ତ୍ୱରାନ୍ୱିତ କରିବା", "ଅଧିକ ନମ୍ବର ରଖିବା", "ମୌଳିକ ଗାଣିତିକ ଧାରଣା ବୁଝିବା", "ପଣିକିଆ ଘୋଷିବା"]
             },
             answer: 2
         },
         {
             id: 4,
-            subject: "Science",
-            q: { en: "The SI unit of Force is:", or: "ବଳର SI ଏକକ କ'ଣ ?" },
+            subject: "Environmental Studies (EVS)",
+            q: { en: "The unit of Force in SI system is:", or: "SI ପଦ୍ଧତିରେ ବଳର ଏକକ କ'ଣ ?" },
             options: {
                 en: ["Joule", "Watt", "Newton", "Pascal"],
                 or: ["ଜୁଲ୍", "ୱାଟ୍", "ନ୍ୟୁଟନ୍", "ପାସ୍କାଲ୍"]
@@ -619,13 +737,13 @@ function getMockQuestionsFallback(paperCode) {
         },
         {
             id: 5,
-            subject: "Math",
-            q: { en: "If a² - b² = 24 and a - b = 2, find the value of a + b:", or: "ଯଦି a² - b² = 24 ଏବଂ a - b = 2 ହୁଏ, ତେବେ a + b ର ମୂଲ୍ୟ କେତେ ?" },
+            subject: "Language I (Odia)",
+            q: { en: "ଭାଷା ଶିଖିବାର ପ୍ରକ୍ରିୟା ହେଉଛି ______ ।", or: "ଭାଷା ଶିଖିବାର ପ୍ରକ୍ରିୟା ହେଉଛି ______ ।" },
             options: {
-                en: ["10", "12", "14", "22"],
-                or: ["10", "12", "14", "22"]
+                en: ["ଆକସ୍ମିକ", "ଜଟିଳ", "କ୍ରମଶଃ", "ସୀମିତ"],
+                or: ["ଆକସ୍ମିକ", "ଜଟିଳ", "କ୍ରମଶଃ", "ସୀମିତ"]
             },
-            answer: 1
+            answer: 2
         }
     ];
 }

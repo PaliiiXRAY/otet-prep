@@ -611,86 +611,102 @@ function toggleDetailedReview() {
 function getOfflinePapersCatalog() {
     return [
         {
-            paperCode: "otet-2019-p1-shift3",
-            title: "OTET Official Paper-I (Full Mock - Shift 3)",
-            description: "Primary Level (Classes I-V) · Complete 150 Marks · CDP (30), Odia (30), English (30), Math (30), EVS (30)",
-            targetClass: "Classes I to V",
-            durationMinutes: 150,
-            totalQuestions: 150
+                "paperCode": "otet-2019-p1-shift3",
+                "title": "OTET Official Paper-I (Full Mock - Shift 3)",
+                "description": "Primary Level (Classes I-V) \u00b7 Complete 150 Marks \u00b7 CDP (30), Odia (30), English (30), Math (30), EVS (30)",
+                "targetClass": "Classes I to V",
+                "durationMinutes": 150,
+                "totalQuestions": 150
         },
         {
-            paperCode: "otet-2019-p2-shift2",
-            title: "OTET Official Paper-II (Full Mock - Shift 2)",
-            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 150
+                "paperCode": "otet-2019-p2-shift2",
+                "title": "OTET Official Paper-II (Full Mock - Shift 2)",
+                "description": "Upper Primary (Classes VI-VIII) \u00b7 Complete 150 Marks \u00b7 CDP, Languages, Optional Subject",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 150
         },
         {
-            paperCode: "otet-2019-p2-shift3",
-            title: "OTET Official Paper-II (Full Mock - Shift 3)",
-            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 150
+                "paperCode": "otet-2019-p2-shift3",
+                "title": "OTET Official Paper-II (Full Mock - Shift 3)",
+                "description": "Upper Primary (Classes VI-VIII) \u00b7 Complete 150 Marks \u00b7 CDP, Languages, Optional Subject",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 150
         },
         {
-            paperCode: "otet-2019-p2-shift1",
-            title: "OTET Official Paper-II (Full Mock - Shift 1)",
-            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 150
+                "paperCode": "otet-2019-p2-shift1",
+                "title": "OTET Official Paper-II (Full Mock - Shift 1)",
+                "description": "Upper Primary (Classes VI-VIII) \u00b7 Complete 150 Marks \u00b7 CDP, Languages, Optional Subject",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 150
         },
         {
-            paperCode: "otet-2019-p2-18aug",
-            title: "OTET Official Paper-II (Full Mock - 18 Aug Shift)",
-            description: "Upper Primary (Classes VI-VIII) · Complete 150 Marks · CDP, Languages, Optional Subject",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 150
+                "paperCode": "otet-2019-p2-18aug",
+                "title": "OTET Official Paper-II (Full Mock - 18 Aug Shift)",
+                "description": "Upper Primary (Classes VI-VIII) \u00b7 Complete 150 Marks \u00b7 CDP, Languages, Optional Subject",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 150
         },
         {
-            paperCode: "subject-cdp-mastery",
-            title: "Child Development & Pedagogy (High-Yield Practice)",
-            description: "Topic-wise Mastery Test · 60 Questions covering Piaget, Vygotsky, Kohlberg, and Inclusive Education",
-            targetClass: "Paper 1 & Paper 2",
-            durationMinutes: 60,
-            totalQuestions: 60
+                "paperCode": "subject-cdp-mastery",
+                "title": "Child Development & Pedagogy (High-Yield Practice)",
+                "description": "Topic-wise Mastery Test \u00b7 60 Questions covering Piaget, Vygotsky, Kohlberg, and Inclusive Education",
+                "targetClass": "Paper 1 & Paper 2",
+                "durationMinutes": 60,
+                "totalQuestions": 60
         },
         {
-            paperCode: "subject-math-mastery",
-            title: "Mathematics & Pedagogy (Practice Module)",
-            description: "Topic-wise Mastery Test · 50 Questions covering Numbers, Geometry, Algebra, and Math Pedagogy",
-            targetClass: "Primary & Upper Primary",
-            durationMinutes: 60,
-            totalQuestions: 50
+                "paperCode": "subject-math-mastery",
+                "title": "Mathematics & Pedagogy (Practice Module)",
+                "description": "Topic-wise Mastery Test \u00b7 50 Questions covering Numbers, Geometry, Algebra, and Math Pedagogy",
+                "targetClass": "Primary & Upper Primary",
+                "durationMinutes": 60,
+                "totalQuestions": 50
         },
         {
-            paperCode: "subject-lang-mastery",
-            title: "Languages (Odia & English Practice Module)",
-            description: "Topic-wise Mastery Test · 60 Questions covering Grammar, Reading Comprehension, and Language Pedagogy",
-            targetClass: "Paper 1 & Paper 2",
-            durationMinutes: 60,
-            totalQuestions: 60
+                "paperCode": "subject-lang-mastery",
+                "title": "Languages (Odia & English Practice Module)",
+                "description": "Topic-wise Mastery Test \u00b7 60 Questions covering Grammar, Reading Comprehension, and Language Pedagogy",
+                "targetClass": "Paper 1 & Paper 2",
+                "durationMinutes": 60,
+                "totalQuestions": 60
         },
         {
-            paperCode: "paper2-social",
-            title: "OTET Paper 2 (Upper Primary - Social Studies)",
-            description: "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Social Studies stream.",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 118
+                "paperCode": "paper2-social",
+                "title": "OTET Paper 2 (Upper Primary - Social Studies)",
+                "description": "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Social Studies stream. Includes CDP, Languages, and History/Geography/Polity.",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 118
         },
         {
-            paperCode: "paper2-science",
-            title: "OTET Paper 2 (Upper Primary - Math & Science)",
-            description: "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Mathematics & Science stream.",
-            targetClass: "Classes VI to VIII",
-            durationMinutes: 150,
-            totalQuestions: 82
+                "paperCode": "paper2-science",
+                "title": "OTET Paper 2 (Upper Primary - Math & Science)",
+                "description": "Eligibility mock test for Upper Primary Teachers (Classes VI to VIII) in Mathematics & Science stream.",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 82
+        },
+        {
+                "paperCode": "otet-2024-p2-arts",
+                "title": "OTET 2024 Official Paper-II (Arts & Social Studies - 17 Aug)",
+                "description": "Latest Official Exam \u00b7 Held on 17 August 2024 \u00b7 CDP, Languages, History, Geography, Polity",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 74
+        },
+        {
+                "paperCode": "otet-2024-p2-science",
+                "title": "OTET 2024 Official Paper-II (Science & Math - 17 Aug)",
+                "description": "Latest Official Exam \u00b7 Held on 17 August 2024 \u00b7 CDP, Languages, Mathematics, Physics, Chemistry, Biology",
+                "targetClass": "Classes VI to VIII",
+                "durationMinutes": 150,
+                "totalQuestions": 34
         }
-    ];
+];
 }
 
 function getMockQuestionsFallback(paperCode) {

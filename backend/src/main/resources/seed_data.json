@@ -28617,6 +28617,2834 @@
           "answer": 1
         }
       ]
+    },
+    {
+      "paperCode": "otet-2024-p2-arts",
+      "title": "OTET 2024 Official Paper-II (Arts & Social Studies - 17 Aug)",
+      "description": "Latest Official Exam · Held on 17 August 2024 · CDP, Languages, History, Geography, Polity",
+      "targetClass": "Classes VI to VIII",
+      "durationMinutes": 150,
+      "totalQuestions": 74,
+      "questions": [
+        {
+          "id": 1,
+          "questionNumber": 1,
+          "originalNumber": 3,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which type of validity is important in achievement testing ? case of",
+            "or": "Which type of validity is important in achievement testing ? case of"
+          },
+          "options": {
+            "en": [
+              "Construct validity",
+              "Content validity",
+              "Predictive validity",
+              "Concurrent validity What is the median of the following scores? 4. 3, 5, 4, 9, 8"
+            ],
+            "or": [
+              "Construct validity",
+              "Content validity",
+              "Predictive validity",
+              "Concurrent validity What is the median of the following scores? 4. 3, 5, 4, 9, 8"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 2,
+          "questionNumber": 2,
+          "originalNumber": 5,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What do you mean by heredity ?:",
+            "or": "What do you mean by heredity ?:"
+          },
+          "options": {
+            "en": [
+              "Traits which are present at the time of birth.",
+              "Traits which child acquire in life time.",
+              "Traits that achieved from the environment.",
+              "Traits acquired through the learning."
+            ],
+            "or": [
+              "Traits which are present at the time of birth.",
+              "Traits which child acquire in life time.",
+              "Traits that achieved from the environment.",
+              "Traits acquired through the learning."
+            ]
+          },
+          "answer": 0,
+          "explanation": "Heredity refers to biological traits transmitted genetically at birth."
+        },
+        {
+          "id": 3,
+          "questionNumber": 3,
+          "originalNumber": 6,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a part of the environment which affects human development ?",
+            "or": "Which of the following is not a part of the environment which affects human development ?"
+          },
+          "options": {
+            "en": [
+              "Economic",
+              "Political",
+              "Moral",
+              "Genetics What is the approximate age 7. range for early adolescence ?"
+            ],
+            "or": [
+              "Economic",
+              "Political",
+              "Moral",
+              "Genetics What is the approximate age 7. range for early adolescence ?"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Genetics is biological heredity, distinct from external environmental factors."
+        },
+        {
+          "id": 4,
+          "questionNumber": 4,
+          "originalNumber": 10,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "In which of the following period of development \"surge of life\" reaches its highest peak ?",
+            "or": "In which of the following period of development \"surge of life\" reaches its highest peak ?"
+          },
+          "options": {
+            "en": [
+              "Infancy",
+              "Childhood",
+              "Adolescence",
+              "Adulthood"
+            ],
+            "or": [
+              "Infancy",
+              "Childhood",
+              "Adolescence",
+              "Adulthood"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 5,
+          "questionNumber": 5,
+          "originalNumber": 11,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "The emotional content of the initial phase of life is known as",
+            "or": "The emotional content of the initial phase of life is known as"
+          },
+          "options": {
+            "en": [
+              "Excitement",
+              "Stress",
+              "Anxiety",
+              "Fear (Continued) Page 3"
+            ],
+            "or": [
+              "Excitement",
+              "Stress",
+              "Anxiety",
+              "Fear (Continued) Page 3"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 6,
+          "questionNumber": 6,
+          "originalNumber": 12,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "According to Hurlock which of the following is the meaning of social development ?",
+            "or": "According to Hurlock which of the following is the meaning of social development ?"
+          },
+          "options": {
+            "en": [
+              "Attaining maturity by interacting with peers.",
+              "Attaining' maturity in social relationship.",
+              "Attaining, maturity only in the family.",
+              "Attaining maturity only in the neighbourhood."
+            ],
+            "or": [
+              "Attaining maturity by interacting with peers.",
+              "Attaining' maturity in social relationship.",
+              "Attaining, maturity only in the family.",
+              "Attaining maturity only in the neighbourhood."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 7,
+          "questionNumber": 7,
+          "originalNumber": 13,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What is the name of the stages of development from' seven to twelve years or upto the onset of puberty ?",
+            "or": "What is the name of the stages of development from' seven to twelve years or upto the onset of puberty ?"
+          },
+          "options": {
+            "en": [
+              "Infancy",
+              "Pre-childhood",
+              "Later childhood ? )",
+              "Adolescence"
+            ],
+            "or": [
+              "Infancy",
+              "Pre-childhood",
+              "Later childhood ? )",
+              "Adolescence"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 8,
+          "questionNumber": 8,
+          "originalNumber": 14,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is,a basic chemical primarily responsible for genetic inheritance ?",
+            "or": "Which of the following is,a basic chemical primarily responsible for genetic inheritance ?"
+          },
+          "options": {
+            "en": [
+              "DNA",
+              "RNA",
+              "Chromosome",
+              "Genes 15.. Which .of the folowing is; not. : related to the process. of learning as meaning making ?"
+            ],
+            "or": [
+              "DNA",
+              "RNA",
+              "Chromosome",
+              "Genes 15.. Which .of the folowing is; not. : related to the process. of learning as meaning making ?"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 9,
+          "questionNumber": 9,
+          "originalNumber": 16,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "The process of assimilating new information as part of the existing cognitive structure is known as",
+            "or": "The process of assimilating new information as part of the existing cognitive structure is known as"
+          },
+          "options": {
+            "en": [
+              "Subsumption",
+              "Consumption",
+              "Assumption",
+              "Presumption"
+            ],
+            "or": [
+              "Subsumption",
+              "Consumption",
+              "Assumption",
+              "Presumption"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 10,
+          "questionNumber": 10,
+          "originalNumber": 17,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not true about Trial and Theory of Learning ? Error",
+            "or": "Which of the following is not true about Trial and Theory of Learning ? Error"
+          },
+          "options": {
+            "en": [
+              "Learning is incremental.",
+              "Learning is the result of the formation ofconnections.",
+              "Learning is mediated by ideas.",
+              "Learning is not insightful."
+            ],
+            "or": [
+              "Learning is incremental.",
+              "Learning is the result of the formation ofconnections.",
+              "Learning is mediated by ideas.",
+              "Learning is not insightful."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 11,
+          "questionNumber": 11,
+          "originalNumber": 18,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Arrange the following four inter related steps in the right order as identified by Bandura in Observational learning : i. Consequences ii. Acquisition iii. Performance iv. Retention",
+            "or": "Arrange the following four inter related steps in the right order as identified by Bandura in Observational learning : i. Consequences ii. Acquisition iii. Performance iv. Retention"
+          },
+          "options": {
+            "en": [
+              "i, ii, iii & iy",
+              "ii, ii, i & iv",
+              "ii, iv, iii & i",
+              "iv, iii, i& i 19, Which of the following is not related to Advance organisers ?"
+            ],
+            "or": [
+              "i, ii, iii & iy",
+              "ii, ii, i & iv",
+              "ii, iv, iii & i",
+              "iv, iii, i& i 19, Which of the following is not related to Advance organisers ?"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 12,
+          "questionNumber": 12,
+          "originalNumber": 20,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a characteristic of creative learners ?",
+            "or": "Which of the following is not a characteristic of creative learners ?"
+          },
+          "options": {
+            "en": [
+              "Courageous",
+              "Curious",
+              "Thinking for the best possible answer",
+              "Visionary"
+            ],
+            "or": [
+              "Courageous",
+              "Curious",
+              "Thinking for the best possible answer",
+              "Visionary"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 13,
+          "questionNumber": 13,
+          "originalNumber": 21,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a behavioural index of the with learning children difficulties ?",
+            "or": "Which of the following is not a behavioural index of the with learning children difficulties ?"
+          },
+          "options": {
+            "en": [
+              "Clarity in thinking",
+              "Easy onset of fatigue",
+              "Skips lines while reading",
+              "Impulsive behaviour in talk and action"
+            ],
+            "or": [
+              "Clarity in thinking",
+              "Easy onset of fatigue",
+              "Skips lines while reading",
+              "Impulsive behaviour in talk and action"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 14,
+          "questionNumber": 14,
+          "originalNumber": 22,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Learning as social activity believes that:",
+            "or": "Learning as social activity believes that:"
+          },
+          "options": {
+            "en": [
+              "Speech can be used to solve problems.",
+              "The culture gives the child the cognitive tools needed for development.",
+              "Mental development possiblo through social interactions.",
+              "Ideas came only from an individual. (Continued) Page 6 children problems in speech articulation having the 23, The are known as:"
+            ],
+            "or": [
+              "Speech can be used to solve problems.",
+              "The culture gives the child the cognitive tools needed for development.",
+              "Mental development possiblo through social interactions.",
+              "Ideas came only from an individual. (Continued) Page 6 children problems in speech articulation having the 23, The are known as:"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 15,
+          "questionNumber": 15,
+          "originalNumber": 25,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a strategy being recommended by the Programme of Action, 1992 (P.0.A., 1992) for. the education ofthe SCIST children ?",
+            "or": "Which of the following is not a strategy being recommended by the Programme of Action, 1992 (P.0.A., 1992) for. the education ofthe SCIST children ?"
+          },
+          "options": {
+            "en": [
+              "Equalisation of the educational development of the SCIST with that of the non-SCIST.",
+              "Ensuring the cent percent enrolment of SCIST children in the school leading' to satisfactory completion at the primary stage of education.",
+              "At least 75 percent of the children in the age group of 11-14 will have to be enrolled and retained in the school leading to satisfactory completion of class-VIII.",
+              "At least 75 percent of the teachers working at. the primary stage be trained. (Continued) gôag Page 7"
+            ],
+            "or": [
+              "Equalisation of the educational development of the SCIST with that of the non-SCIST.",
+              "Ensuring the cent percent enrolment of SCIST children in the school leading' to satisfactory completion at the primary stage of education.",
+              "At least 75 percent of the children in the age group of 11-14 will have to be enrolled and retained in the school leading to satisfactory completion of class-VIII.",
+              "At least 75 percent of the teachers working at. the primary stage be trained. (Continued) gôag Page 7"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 16,
+          "questionNumber": 16,
+          "originalNumber": 26,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which quality is not found in a good test ?",
+            "or": "Which quality is not found in a good test ?"
+          },
+          "options": {
+            "en": [
+              "Validity",
+              "Reliability",
+              "Usability",
+              "Flexibility"
+            ],
+            "or": [
+              "Validity",
+              "Reliability",
+              "Usability",
+              "Flexibility"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 17,
+          "questionNumber": 17,
+          "originalNumber": 27,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following approach is different from the other three ?",
+            "or": "Which of the following approach is different from the other three ?"
+          },
+          "options": {
+            "en": [
+              "Discussion Centred",
+              "Teacher Centred",
+              "Learner Centred",
+              "Learning Centred"
+            ],
+            "or": [
+              "Discussion Centred",
+              "Teacher Centred",
+              "Learner Centred",
+              "Learning Centred"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 18,
+          "questionNumber": 18,
+          "originalNumber": 28,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following method is learner-centred?",
+            "or": "Which of the following method is learner-centred?"
+          },
+          "options": {
+            "en": [
+              "Discussion",
+              "Demonstration",
+              "Narration",
+              "Project"
+            ],
+            "or": [
+              "Discussion",
+              "Demonstration",
+              "Narration",
+              "Project"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 19,
+          "questionNumber": 19,
+          "originalNumber": 29,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is most important in' learner-centred. curriculum ?",
+            "or": "Which of the following is most important in' learner-centred. curriculum ?"
+          },
+          "options": {
+            "en": [
+              "Teacher",
+              "Child •",
+              "Content",
+              "Environment"
+            ],
+            "or": [
+              "Teacher",
+              "Child •",
+              "Content",
+              "Environment"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 20,
+          "questionNumber": 20,
+          "originalNumber": 30,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following are only visual-aids ?",
+            "or": "Which of the following are only visual-aids ?"
+          },
+          "options": {
+            "en": [
+              "Blackboard, Chart, Flash card.",
+              "Blackboard, Radio, T.V.",
+              "Blackboard, Radio, Newspaper Blackboard, Tape recorder, Line diagram",
+              "(Continued)"
+            ],
+            "or": [
+              "Blackboard, Chart, Flash card.",
+              "Blackboard, Radio, T.V.",
+              "Blackboard, Radio, Newspaper Blackboard, Tape recorder, Line diagram",
+              "(Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 21,
+          "questionNumber": 21,
+          "originalNumber": 37,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "IQG aORa gRNaY G'e ?",
+            "or": "IQG aORa gRNaY G'e ?"
+          },
+          "options": {
+            "en": [
+              "aR aN6aISI",
+              "qd6ge () G.q0R (D 2I06Ta 39. 6@G6 @gaIS1 Gaia1AIRS AIS",
+              "aigOY gIAI",
+              ".G161461 G16Rg d8A AGSN I alI Q°6 G60 ?"
+            ],
+            "or": [
+              "aR aN6aISI",
+              "qd6ge () G.q0R (D 2I06Ta 39. 6@G6 @gaIS1 Gaia1AIRS AIS",
+              "aigOY gIAI",
+              ".G161461 G16Rg d8A AGSN I alI Q°6 G60 ?"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 22,
+          "questionNumber": 22,
+          "originalNumber": 66,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Learners display differences and therefore teacher should a",
+            "or": "Learners display differences and therefore teacher should a"
+          },
+          "options": {
+            "en": [
+              "increase number of tests.",
+              "enforce strict discipline.",
+              "insist on uniform pace of learning.",
+              "provide variety of learning experiences."
+            ],
+            "or": [
+              "increase number of tests.",
+              "enforce strict discipline.",
+              "insist on uniform pace of learning.",
+              "provide variety of learning experiences."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 23,
+          "questionNumber": 23,
+          "originalNumber": 75,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Identify the Correct sentence following sentences :",
+            "or": "Identify the Correct sentence following sentences :"
+          },
+          "options": {
+            "en": [
+              "Never I talk while eating.",
+              "Never I do talk while eating.",
+              "Do never I talk while eating.",
+              "Never do I talk while eating. grammatically among the"
+            ],
+            "or": [
+              "Never I talk while eating.",
+              "Never I do talk while eating.",
+              "Do never I talk while eating.",
+              "Never do I talk while eating. grammatically among the"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 24,
+          "questionNumber": 24,
+          "originalNumber": 76,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is a simple sentence ?",
+            "or": "Which of the following is a simple sentence ?"
+          },
+          "options": {
+            "en": [
+              "He went to bed early, because he was very tired.",
+              "He was so tired that he went to bed early.",
+              "He went to bed early due to tired-ness.",
+              "He was very tired, so he went tobed early. off. Instruction Read the verse passage carefully and answer the questions from 77 to 81: It pains her to see Animals suffering and hurt, She carries a fur purse, To match her leather shirt, She wastes paper She has the guts, But, oh!how she hates Trees being cut. Child labour She condemns vehemently, Why is then her little domestic maid Never treated gently ? Cruelty to animals Makes her boo-ho0, Her favourite outings Are to circus and zoo. a (Continued)"
+            ],
+            "or": [
+              "He went to bed early, because he was very tired.",
+              "He was so tired that he went to bed early.",
+              "He went to bed early due to tired-ness.",
+              "He was very tired, so he went tobed early. off. Instruction Read the verse passage carefully and answer the questions from 77 to 81: It pains her to see Animals suffering and hurt, She carries a fur purse, To match her leather shirt, She wastes paper She has the guts, But, oh!how she hates Trees being cut. Child labour She condemns vehemently, Why is then her little domestic maid Never treated gently ? Cruelty to animals Makes her boo-ho0, Her favourite outings Are to circus and zoo. a (Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 25,
+          "questionNumber": 25,
+          "originalNumber": 88,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following level of teaching requires more active participation, more imaginative and creative thinking ? word",
+            "or": "Which of the following level of teaching requires more active participation, more imaginative and creative thinking ? word"
+          },
+          "options": {
+            "en": [
+              "Memory level",
+              "Reflective level",
+              "Understanding level",
+              "All levels"
+            ],
+            "or": [
+              "Memory level",
+              "Reflective level",
+              "Understanding level",
+              "All levels"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 26,
+          "questionNumber": 26,
+          "originalNumber": 89,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "The main aim of teaching is :",
+            "or": "The main aim of teaching is :"
+          },
+          "options": {
+            "en": [
+              "to disseminate information to the learners.",
+              "to help the learners in getting employment easily.",
+              "to help the learners to pass theìr examinations.",
+              "to help the learners to respond to their environment in an effective way."
+            ],
+            "or": [
+              "to disseminate information to the learners.",
+              "to help the learners in getting employment easily.",
+              "to help the learners to pass theìr examinations.",
+              "to help the learners to respond to their environment in an effective way."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 27,
+          "questionNumber": 27,
+          "originalNumber": 90,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Teaching at memory level is based on:",
+            "or": "Teaching at memory level is based on:"
+          },
+          "options": {
+            "en": [
+              "S-R theory and",
+              "Field theory",
+              "Gestalt theory",
+              "Cognitive field theory (Continued)"
+            ],
+            "or": [
+              "S-R theory and",
+              "Field theory",
+              "Gestalt theory",
+              "Cognitive field theory (Continued)"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 28,
+          "questionNumber": 28,
+          "originalNumber": 91,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which teaching method is a activity based approach,?",
+            "or": "Which teaching method is a activity based approach,?"
+          },
+          "options": {
+            "en": [
+              "Demonstration",
+              "Observation",
+              "Project",
+              "Survey"
+            ],
+            "or": [
+              "Demonstration",
+              "Observation",
+              "Project",
+              "Survey"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 29,
+          "questionNumber": 29,
+          "originalNumber": 92,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which type of question is difficult and time consuming to prepare, but relatively easy for assessment ?",
+            "or": "Which type of question is difficult and time consuming to prepare, but relatively easy for assessment ?"
+          },
+          "options": {
+            "en": [
+              "Subjective type",
+              "Short-answer type",
+              "Objective type",
+              "Very-short answer'type"
+            ],
+            "or": [
+              "Subjective type",
+              "Short-answer type",
+              "Objective type",
+              "Very-short answer'type"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 30,
+          "questionNumber": 30,
+          "originalNumber": 93,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Project is a purposeful activity' - whò said it ?",
+            "or": "Project is a purposeful activity' - whò said it ?"
+          },
+          "options": {
+            "en": [
+              "Mc Dougal",
+              "John Dewey",
+              "Skinner",
+              "Kilpatrick"
+            ],
+            "or": [
+              "Mc Dougal",
+              "John Dewey",
+              "Skinner",
+              "Kilpatrick"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 31,
+          "questionNumber": 31,
+          "originalNumber": 95,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which one is the component of Social Study ?",
+            "or": "Which one is the component of Social Study ?"
+          },
+          "options": {
+            "en": [
+              "Mathematics",
+              "Civics",
+              "Science",
+              "Art (Continued)"
+            ],
+            "or": [
+              "Mathematics",
+              "Civics",
+              "Science",
+              "Art (Continued)"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 32,
+          "questionNumber": 32,
+          "originalNumber": 96,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which ruler of Mewar in 1576: fought the Battle of Haldighati ?",
+            "or": "Which ruler of Mewar in 1576: fought the Battle of Haldighati ?"
+          },
+          "options": {
+            "en": [
+              "Rana Pratap Singh",
+              "Rana Amar Singh",
+              "Maharaja Uday Singh",
+              "Raja Man Singh"
+            ],
+            "or": [
+              "Rana Pratap Singh",
+              "Rana Amar Singh",
+              "Maharaja Uday Singh",
+              "Raja Man Singh"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 33,
+          "questionNumber": 33,
+          "originalNumber": 98,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Where the famous Fort St. George', built by the East India Company is situated ?",
+            "or": "Where the famous Fort St. George', built by the East India Company is situated ?"
+          },
+          "options": {
+            "en": [
+              "Puducherry",
+              "Kochi",
+              "Goa",
+              "Chennai"
+            ],
+            "or": [
+              "Puducherry",
+              "Kochi",
+              "Goa",
+              "Chennai"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 34,
+          "questionNumber": 34,
+          "originalNumber": 99,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "The inscription of Hathigumpha is the source of information about which king?",
+            "or": "The inscription of Hathigumpha is the source of information about which king?"
+          },
+          "options": {
+            "en": [
+              "Kharavela",
+              "Ashoka",
+              "Hârshavardhan",
+              "Kanishka 56 (Continued) Page 18"
+            ],
+            "or": [
+              "Kharavela",
+              "Ashoka",
+              "Hârshavardhan",
+              "Kanishka 56 (Continued) Page 18"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 35,
+          "questionNumber": 35,
+          "originalNumber": 104,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Who was the King of France at the time of French Revolution ?",
+            "or": "Who was the King of France at the time of French Revolution ?"
+          },
+          "options": {
+            "en": [
+              "Louis - XIV",
+              "Nicholas -II",
+              "Marie Antoinette",
+              "Louis - XVI"
+            ],
+            "or": [
+              "Louis - XIV",
+              "Nicholas -II",
+              "Marie Antoinette",
+              "Louis - XVI"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 36,
+          "questionNumber": 36,
+          "originalNumber": 105,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "The famous Lucknow Pact' of 1916 was signed between :",
+            "or": "The famous Lucknow Pact' of 1916 was signed between :"
+          },
+          "options": {
+            "en": [
+              "Mahatma Gandhi and Aga Khan",
+              "Bal Gangadhar Tilak and Muhammad Ali Jinnah",
+              "Mahatma Gandhi and Muhammad Ali Jinnah",
+              "Bal Gangadhar Tilak and Aga Khan"
+            ],
+            "or": [
+              "Mahatma Gandhi and Aga Khan",
+              "Bal Gangadhar Tilak and Muhammad Ali Jinnah",
+              "Mahatma Gandhi and Muhammad Ali Jinnah",
+              "Bal Gangadhar Tilak and Aga Khan"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 37,
+          "questionNumber": 37,
+          "originalNumber": 106,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "The railway line was established during the reign of which Governor-General of India ?",
+            "or": "The railway line was established during the reign of which Governor-General of India ?"
+          },
+          "options": {
+            "en": [
+              "Lord Curzon",
+              "Lord Mountbatten",
+              "Lord Dalhousie",
+              "Lord Lytton"
+            ],
+            "or": [
+              "Lord Curzon",
+              "Lord Mountbatten",
+              "Lord Dalhousie",
+              "Lord Lytton"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 38,
+          "questionNumber": 38,
+          "originalNumber": 107,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Who was the' Viceroy/Governor General of India at the time of Jallianwala Bagh Massacre ?",
+            "or": "Who was the' Viceroy/Governor General of India at the time of Jallianwala Bagh Massacre ?"
+          },
+          "options": {
+            "en": [
+              "Lord Irwin",
+              "Lord Chelmsford",
+              "Lord Hardinge.",
+              "Lord Curzon (Continued)"
+            ],
+            "or": [
+              "Lord Irwin",
+              "Lord Chelmsford",
+              "Lord Hardinge.",
+              "Lord Curzon (Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 39,
+          "questionNumber": 39,
+          "originalNumber": 58,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Page 19 -108. Out of 147 seats of. Odisha Legislative Assembly, how many seats are. reserved for scheduled castes ?",
+            "or": "Page 19 -108. Out of 147 seats of. Odisha Legislative Assembly, how many seats are. reserved for scheduled castes ?"
+          },
+          "options": {
+            "en": [
+              "24",
+              "32",
+              "79",
+              "41"
+            ],
+            "or": [
+              "24",
+              "32",
+              "79",
+              "41"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 40,
+          "questionNumber": 40,
+          "originalNumber": 109,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which Article of the Indian Constitution provides for the reservation of seats for Scheduled Castes and Scheduled Tribes in the House ofthe people ?",
+            "or": "Which Article of the Indian Constitution provides for the reservation of seats for Scheduled Castes and Scheduled Tribes in the House ofthe people ?"
+          },
+          "options": {
+            "en": [
+              "-342",
+              "340",
+              "332",
+              "330"
+            ],
+            "or": [
+              "-342",
+              "340",
+              "332",
+              "330"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 41,
+          "questionNumber": 41,
+          "originalNumber": 110,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which of the following is an ideology based pressure group in India ?",
+            "or": "Which of the following is an ideology based pressure group in India ?"
+          },
+          "options": {
+            "en": [
+              "Bharatiya Mazdoor Sangh (BMS)",
+              "Rastriya Swayam Sevak Sangh (RSS)",
+              "All India Trade Union Congrešs (AITUC)",
+              "Federátion ofIndian Chamber of Commerce and Industry (FICCI) (Continued) Page 20"
+            ],
+            "or": [
+              "Bharatiya Mazdoor Sangh (BMS)",
+              "Rastriya Swayam Sevak Sangh (RSS)",
+              "All India Trade Union Congrešs (AITUC)",
+              "Federátion ofIndian Chamber of Commerce and Industry (FICCI) (Continued) Page 20"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 42,
+          "questionNumber": 42,
+          "originalNumber": 111,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "When did two union territories named Jammu & Kashmir and Ladhakh come into existence ?",
+            "or": "When did two union territories named Jammu & Kashmir and Ladhakh come into existence ?"
+          },
+          "options": {
+            "en": [
+              "2000 November 15",
+              "2014 June 2",
+              "2019 August 9",
+              "2019 October 31"
+            ],
+            "or": [
+              "2000 November 15",
+              "2014 June 2",
+              "2019 August 9",
+              "2019 October 31"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 43,
+          "questionNumber": 43,
+          "originalNumber": 112,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Where the headquarters International Court of Justice is of situated ?",
+            "or": "Where the headquarters International Court of Justice is of situated ?"
+          },
+          "options": {
+            "en": [
+              "New York",
+              "Washington",
+              "The Hague",
+              "Geneva"
+            ],
+            "or": [
+              "New York",
+              "Washington",
+              "The Hague",
+              "Geneva"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 44,
+          "questionNumber": 44,
+          "originalNumber": 113,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "What is the tenure of the Chairman of the National Human Rights Commission ?",
+            "or": "What is the tenure of the Chairman of the National Human Rights Commission ?"
+          },
+          "options": {
+            "en": [
+              "5 years or upto 62 years of age.",
+              "5 years or upto 65 years of age.",
+              "6 years or upto 65 years of age.",
+              "5 years or upto 70years of: age. (Continued) Page 21"
+            ],
+            "or": [
+              "5 years or upto 62 years of age.",
+              "5 years or upto 65 years of age.",
+              "6 years or upto 65 years of age.",
+              "5 years or upto 70years of: age. (Continued) Page 21"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 45,
+          "questionNumber": 45,
+          "originalNumber": 114,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which of the following is the 11th Fundamental Duty of citizens as per the Constitution of India ?",
+            "or": "Which of the following is the 11th Fundamental Duty of citizens as per the Constitution of India ?"
+          },
+          "options": {
+            "en": [
+              "To uphold and protect the sovereignty, unity and integrity of India.",
+              "Mother Or father guardian has to provide opportunities for education to his/her child or ward between the age of six and fourteen years. public property and to adjure violence.",
+              "To safeguard",
+              "To value and preserve the rich heritage of the country's composite culture."
+            ],
+            "or": [
+              "To uphold and protect the sovereignty, unity and integrity of India.",
+              "Mother Or father guardian has to provide opportunities for education to his/her child or ward between the age of six and fourteen years. public property and to adjure violence.",
+              "To safeguard",
+              "To value and preserve the rich heritage of the country's composite culture."
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 46,
+          "questionNumber": 46,
+          "originalNumber": 115,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which of the following states do not have bicameral legislature ?",
+            "or": "Which of the following states do not have bicameral legislature ?"
+          },
+          "options": {
+            "en": [
+              "Maharashtra",
+              "Uttar Pradesh",
+              "Bihar",
+              "Madhya Pradesh"
+            ],
+            "or": [
+              "Maharashtra",
+              "Uttar Pradesh",
+              "Bihar",
+              "Madhya Pradesh"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 47,
+          "questionNumber": 47,
+          "originalNumber": 116,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which one is the objective of teaching social science at the upper primary stage ?",
+            "or": "Which one is the objective of teaching social science at the upper primary stage ?"
+          },
+          "options": {
+            "en": [
+              "To understand the behaviour.",
+              "To understand the society.",
+              "To understand the individual.",
+              "To understand the nature. (Continued)"
+            ],
+            "or": [
+              "To understand the behaviour.",
+              "To understand the society.",
+              "To understand the individual.",
+              "To understand the nature. (Continued)"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 48,
+          "questionNumber": 48,
+          "originalNumber": 61,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Page 22 117..Which is not the aim of learning Social Science ?",
+            "or": "Page 22 117..Which is not the aim of learning Social Science ?"
+          },
+          "options": {
+            "en": [
+              "Excessive misuse of social environment",
+              "Awareness ofthe society",
+              "Adaption to society",
+              "To gain knowledge of society 118, In which method of teaching Social Science, 'zoo' can be used ?"
+            ],
+            "or": [
+              "Excessive misuse of social environment",
+              "Awareness ofthe society",
+              "Adaption to society",
+              "To gain knowledge of society 118, In which method of teaching Social Science, 'zoo' can be used ?"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 49,
+          "questionNumber": 49,
+          "originalNumber": 120,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "What is the sequence of preparing a project ?",
+            "or": "What is the sequence of preparing a project ?"
+          },
+          "options": {
+            "en": [
+              "Choosing, planning, executing and evaluating",
+              "Planning, choosing, executing and evaluating",
+              "Executing, evaluating,choosing and planning",
+              "Evaluating, choosing, planning andexecuting (Continued) Page 23"
+            ],
+            "or": [
+              "Choosing, planning, executing and evaluating",
+              "Planning, choosing, executing and evaluating",
+              "Executing, evaluating,choosing and planning",
+              "Evaluating, choosing, planning andexecuting (Continued) Page 23"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 50,
+          "questionNumber": 50,
+          "originalNumber": 121,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which one is different from the other three from teaching point of view in Geography ?",
+            "or": "Which one is different from the other three from teaching point of view in Geography ?"
+          },
+          "options": {
+            "en": [
+              "Study tour",
+              "Educational Exhibition",
+              "Excursion",
+              "Field trip"
+            ],
+            "or": [
+              "Study tour",
+              "Educational Exhibition",
+              "Excursion",
+              "Field trip"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 51,
+          "questionNumber": 51,
+          "originalNumber": 122,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which of the following type of question is difficult and time consuming to prepare but it becomes easy speedy and correct for evaluation ?",
+            "or": "Which of the following type of question is difficult and time consuming to prepare but it becomes easy speedy and correct for evaluation ?"
+          },
+          "options": {
+            "en": [
+              "Objective based",
+              "Very short answer type",
+              "Objective type",
+              "Long answer type"
+            ],
+            "or": [
+              "Objective based",
+              "Very short answer type",
+              "Objective type",
+              "Long answer type"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 52,
+          "questionNumber": 52,
+          "originalNumber": 123,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which of the following is not included in map study ?",
+            "or": "Which of the following is not included in map study ?"
+          },
+          "options": {
+            "en": [
+              "Map interpretation",
+              "Map preservation",
+              "Learning map language",
+              "Map reading"
+            ],
+            "or": [
+              "Map interpretation",
+              "Map preservation",
+              "Learning map language",
+              "Map reading"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 53,
+          "questionNumber": 53,
+          "originalNumber": 125,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "To which stage of lesson planning in Geography does the objective specification belong?",
+            "or": "To which stage of lesson planning in Geography does the objective specification belong?"
+          },
+          "options": {
+            "en": [
+              "Application",
+              "Conclusion",
+              "Presentation",
+              "Introduction"
+            ],
+            "or": [
+              "Application",
+              "Conclusion",
+              "Presentation",
+              "Introduction"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 54,
+          "questionNumber": 54,
+          "originalNumber": 126,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "In which district of Odisha is. the highest mountain peak of the Eastern Ghats located ?",
+            "or": "In which district of Odisha is. the highest mountain peak of the Eastern Ghats located ?"
+          },
+          "options": {
+            "en": [
+              "Mallkanagiri",
+              "Koraput",
+              "Nabarangapur",
+              "Gajapati"
+            ],
+            "or": [
+              "Mallkanagiri",
+              "Koraput",
+              "Nabarangapur",
+              "Gajapati"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 55,
+          "questionNumber": 55,
+          "originalNumber": 127,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "In which segment is the Odhisha coastal plain the narrowest ?",
+            "or": "In which segment is the Odhisha coastal plain the narrowest ?"
+          },
+          "options": {
+            "en": [
+              "The Chilika Coastal Plain",
+              "The Baleswar Plain",
+              "The Mahanadi Brahmani Deltaic Plain",
+              "The Rushikulya Plain"
+            ],
+            "or": [
+              "The Chilika Coastal Plain",
+              "The Baleswar Plain",
+              "The Mahanadi Brahmani Deltaic Plain",
+              "The Rushikulya Plain"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 56,
+          "questionNumber": 56,
+          "originalNumber": 129,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which cultivation isthe çauseof :soil erosion as, well as depletion of forest resources in our state ?",
+            "or": "Which cultivation isthe çauseof :soil erosion as, well as depletion of forest resources in our state ?"
+          },
+          "options": {
+            "en": [
+              "Intensive",
+              "Podu",
+              "Extensive",
+              "Sedentary"
+            ],
+            "or": [
+              "Intensive",
+              "Podu",
+              "Extensive",
+              "Sedentary"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 57,
+          "questionNumber": 57,
+          "originalNumber": 130,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which one of the following factories is estäblishedat Jàjpur?",
+            "or": "Which one of the following factories is estäblishedat Jàjpur?"
+          },
+          "options": {
+            "en": [
+              "Ferro-Chromë Ferro-Manganese",
+              "Ferro-Silicon",
+              "(D) Ferro-Vanadiüm 131.For, which of the;following minerals Odisha isithe leading state in India,?,",
+              "(C) Graphite Chromium"
+            ],
+            "or": [
+              "Ferro-Chromë Ferro-Manganese",
+              "Ferro-Silicon",
+              "(D) Ferro-Vanadiüm 131.For, which of the;following minerals Odisha isithe leading state in India,?,",
+              "(C) Graphite Chromium"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 58,
+          "questionNumber": 58,
+          "originalNumber": 132,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Rainfall due to Kalbaisakhi is conducive for the: cultivation of which crops ?",
+            "or": "Rainfall due to Kalbaisakhi is conducive for the: cultivation of which crops ?"
+          },
+          "options": {
+            "en": [
+              "Jute and Tea.:",
+              "Wheat and Jut",
+              "Jute and Sugarcane",
+              "Wheat and Tea (Continued) Page 26"
+            ],
+            "or": [
+              "Jute and Tea.:",
+              "Wheat and Jut",
+              "Jute and Sugarcane",
+              "Wheat and Tea (Continued) Page 26"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 59,
+          "questionNumber": 59,
+          "originalNumber": 133,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "In which type of forest are the Chir type trees noticed?",
+            "or": "In which type of forest are the Chir type trees noticed?"
+          },
+          "options": {
+            "en": [
+              "Subtropical dry evergreen",
+              "Subtropical montane",
+              "Temperate montane",
+              "Wet montane"
+            ],
+            "or": [
+              "Subtropical dry evergreen",
+              "Subtropical montane",
+              "Temperate montane",
+              "Wet montane"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 60,
+          "questionNumber": 60,
+          "originalNumber": 134,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which pair is wrong on the basis of their relation ?",
+            "or": "Which pair is wrong on the basis of their relation ?"
+          },
+          "options": {
+            "en": [
+              "Chandka -Elephant",
+              "Chilika – Bird Sanctuary",
+              "Tikarapara–Turtle",
+              "Similipal- Tiger"
+            ],
+            "or": [
+              "Chandka -Elephant",
+              "Chilika – Bird Sanctuary",
+              "Tikarapara–Turtle",
+              "Similipal- Tiger"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 61,
+          "questionNumber": 61,
+          "originalNumber": 135,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "What type of landform is formed due to faulting ?",
+            "or": "What type of landform is formed due to faulting ?"
+          },
+          "options": {
+            "en": [
+              "Young fold mountain",
+              "Horst mountain",
+              "Upward folding",
+              "Downward folding"
+            ],
+            "or": [
+              "Young fold mountain",
+              "Horst mountain",
+              "Upward folding",
+              "Downward folding"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 62,
+          "questionNumber": 62,
+          "originalNumber": 136,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which are the.trees noticed in the equatorial region ?",
+            "or": "Which are the.trees noticed in the equatorial region ?"
+          },
+          "options": {
+            "en": [
+              "Pine, Fir, Larch",
+              "Bizasal,.Teak, Sesamum",
+              "Maple, Willow, Oak",
+              "Mahogany, Ablus, Oilpalm (Continued) Page 27"
+            ],
+            "or": [
+              "Pine, Fir, Larch",
+              "Bizasal,.Teak, Sesamum",
+              "Maple, Willow, Oak",
+              "Mahogany, Ablus, Oilpalm (Continued) Page 27"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 63,
+          "questionNumber": 63,
+          "originalNumber": 137,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "In which of the following regions the highest bio-diversities is found ?",
+            "or": "In which of the following regions the highest bio-diversities is found ?"
+          },
+          "options": {
+            "en": [
+              "Monsoon region",
+              "Mediterranean region",
+              "Equatorial region",
+              "Polar region"
+            ],
+            "or": [
+              "Monsoon region",
+              "Mediterranean region",
+              "Equatorial region",
+              "Polar region"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 64,
+          "questionNumber": 64,
+          "originalNumber": 138,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which of the following spheres in the atmosphere communication ? help in",
+            "or": "Which of the following spheres in the atmosphere communication ? help in"
+          },
+          "options": {
+            "en": [
+              "Troposphere",
+              "Stratosphere",
+              "Ozonosphere",
+              "Ionosphere"
+            ],
+            "or": [
+              "Troposphere",
+              "Stratosphere",
+              "Ozonosphere",
+              "Ionosphere"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 65,
+          "questionNumber": 65,
+          "originalNumber": 139,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which one of the following is an ideal biosphere ?",
+            "or": "Which one of the following is an ideal biosphere ?"
+          },
+          "options": {
+            "en": [
+              "Continental shelf :",
+              "Continental slope",
+              "Ocean floor",
+              "Abyssal plain"
+            ],
+            "or": [
+              "Continental shelf :",
+              "Continental slope",
+              "Ocean floor",
+              "Abyssal plain"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 66,
+          "questionNumber": 66,
+          "originalNumber": 140,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which current of acific Ocean is similar to the Gulf stream of the Atlantic Ocean ?",
+            "or": "Which current of acific Ocean is similar to the Gulf stream of the Atlantic Ocean ?"
+          },
+          "options": {
+            "en": [
+              "Kurile",
+              "Kuroshio",
+              "California",
+              "New South Wales (Continued)"
+            ],
+            "or": [
+              "Kurile",
+              "Kuroshio",
+              "California",
+              "New South Wales (Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 67,
+          "questionNumber": 67,
+          "originalNumber": 141,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Underneath which one is the depth of Sial layerless ?",
+            "or": "Underneath which one is the depth of Sial layerless ?"
+          },
+          "options": {
+            "en": [
+              "Land",
+              "Coastal Plains",
+              "Oceans",
+              "Mountains"
+            ],
+            "or": [
+              "Land",
+              "Coastal Plains",
+              "Oceans",
+              "Mountains"
+            ]
+          },
+          "answer": 2,
+          "explanation": "The granitic Sial layer is absent or extremely thin beneath the oceanic crust."
+        },
+        {
+          "id": 68,
+          "questionNumber": 68,
+          "originalNumber": 142,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Find out the odd pair from the following: Rift valley Hanging valley",
+            "or": "Find out the odd pair from the following: Rift valley Hanging valley"
+          },
+          "options": {
+            "en": [
+              "Mountain",
+              "- Glacier",
+              "Underground – Blind valley water .Misfit valley",
+              "River"
+            ],
+            "or": [
+              "Mountain",
+              "- Glacier",
+              "Underground – Blind valley water .Misfit valley",
+              "River"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 69,
+          "questionNumber": 69,
+          "originalNumber": 143,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which of the following streams is a distributary as well as tributary ?",
+            "or": "Which of the following streams is a distributary as well as tributary ?"
+          },
+          "options": {
+            "en": [
+              "The Ghodahad",
+              "The Kharasrota",
+              "The Mahendratanaya",
+              "The Salandi"
+            ],
+            "or": [
+              "The Ghodahad",
+              "The Kharasrota",
+              "The Mahendratanaya",
+              "The Salandi"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 70,
+          "questionNumber": 70,
+          "originalNumber": 144,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "On which type of forest in Odisha do the Bidi manufacturing factories depend ?",
+            "or": "On which type of forest in Odisha do the Bidi manufacturing factories depend ?"
+          },
+          "options": {
+            "en": [
+              "Tropical dry deciduous",
+              "Tropical semi evergeen",
+              "Tidal",
+              "Tropical moist deciduous (Continued) Page 29"
+            ],
+            "or": [
+              "Tropical dry deciduous",
+              "Tropical semi evergeen",
+              "Tidal",
+              "Tropical moist deciduous (Continued) Page 29"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 71,
+          "questionNumber": 71,
+          "originalNumber": 146,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which of the following is the best method to teach V shaped valley at primary level ?",
+            "or": "Which of the following is the best method to teach V shaped valley at primary level ?"
+          },
+          "options": {
+            "en": [
+              "Displaying picture",
+              "Model display.",
+              "Class room exhibition",
+              "Field trip"
+            ],
+            "or": [
+              "Displaying picture",
+              "Model display.",
+              "Class room exhibition",
+              "Field trip"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 72,
+          "questionNumber": 72,
+          "originalNumber": 147,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which one of the following is correct on the basis of the nature of Geography ?.",
+            "or": "Which one of the following is correct on the basis of the nature of Geography ?."
+          },
+          "options": {
+            "en": [
+              "Geography is a science natural",
+              "Geography is a Bio-Science",
+              "Geography is an Astronomical Science 1S an Interdisciplinary Science,",
+              "Geography (Continued)"
+            ],
+            "or": [
+              "Geography is a science natural",
+              "Geography is a Bio-Science",
+              "Geography is an Astronomical Science 1S an Interdisciplinary Science,",
+              "Geography (Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 73,
+          "questionNumber": 73,
+          "originalNumber": 148,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Which method does it signify in Geography teaching when teacher teaches the position of India using a physical map ?",
+            "or": "Which method does it signify in Geography teaching when teacher teaches the position of India using a physical map ?"
+          },
+          "options": {
+            "en": [
+              "Demonstration of teaching aids",
+              "Direct observation",
+              "Free observation",
+              "Survey"
+            ],
+            "or": [
+              "Demonstration of teaching aids",
+              "Direct observation",
+              "Free observation",
+              "Survey"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 74,
+          "questionNumber": 74,
+          "originalNumber": 149,
+          "subject": "Social Studies & Arts",
+          "q": {
+            "en": "Who promulgated the Project Method'?",
+            "or": "Who promulgated the Project Method'?"
+          },
+          "options": {
+            "en": [
+              "Watson",
+              "Stevenson",
+              "John Dewey",
+              "Montessori l50. Who is the Centre of the teaching learning process ?"
+            ],
+            "or": [
+              "Watson",
+              "Stevenson",
+              "John Dewey",
+              "Montessori l50. Who is the Centre of the teaching learning process ?"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        }
+      ]
+    },
+    {
+      "paperCode": "otet-2024-p2-science",
+      "title": "OTET 2024 Official Paper-II (Science & Math - 17 Aug)",
+      "description": "Latest Official Exam · Held on 17 August 2024 · CDP, Languages, Mathematics, Physics, Chemistry, Biology",
+      "targetClass": "Classes VI to VIII",
+      "durationMinutes": 150,
+      "totalQuestions": 34,
+      "questions": [
+        {
+          "id": 1,
+          "questionNumber": 1,
+          "originalNumber": 3,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which typè of validity is important in achievement testing ?",
+            "or": "Which typè of validity is important in achievement testing ?"
+          },
+          "options": {
+            "en": [
+              "Construct validity",
+              "Content validity of Case",
+              "Predictive validity",
+              "Concurrent validity What is the median of the following scores ? 4. 3, 5, 4, 9, 8"
+            ],
+            "or": [
+              "Construct validity",
+              "Content validity of Case",
+              "Predictive validity",
+              "Concurrent validity What is the median of the following scores ? 4. 3, 5, 4, 9, 8"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 2,
+          "questionNumber": 2,
+          "originalNumber": 5,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What do you mean by heredity ?",
+            "or": "What do you mean by heredity ?"
+          },
+          "options": {
+            "en": [
+              "Traits which are present at the time of birth. child acquire in life time. which",
+              "Traits",
+              "Traits that achieved from the environment.",
+              "Traits acquired through the learning. Which of the following is not a 6. part of the environment which affects human development ?"
+            ],
+            "or": [
+              "Traits which are present at the time of birth. child acquire in life time. which",
+              "Traits",
+              "Traits that achieved from the environment.",
+              "Traits acquired through the learning. Which of the following is not a 6. part of the environment which affects human development ?"
+            ]
+          },
+          "answer": 0,
+          "explanation": "Heredity refers to biological traits transmitted genetically at birth."
+        },
+        {
+          "id": 3,
+          "questionNumber": 3,
+          "originalNumber": 11,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "The emotional content of the initial phase of life is known as",
+            "or": "The emotional content of the initial phase of life is known as"
+          },
+          "options": {
+            "en": [
+              "Excitement",
+              "Stress",
+              "Anxiety",
+              "Fear (Continued) Page 3"
+            ],
+            "or": [
+              "Excitement",
+              "Stress",
+              "Anxiety",
+              "Fear (Continued) Page 3"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 4,
+          "questionNumber": 4,
+          "originalNumber": 12,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "According to Hurlock which of the following is the meaning of social development ? maturity by",
+            "or": "According to Hurlock which of the following is the meaning of social development ? maturity by"
+          },
+          "options": {
+            "en": [
+              "Attaining",
+              "Attaining interacting with peers.; maturity in social relationship.",
+              "Attaining maturity only in the family.",
+              "Attaining maturity only in the neighbourhood."
+            ],
+            "or": [
+              "Attaining",
+              "Attaining interacting with peers.; maturity in social relationship.",
+              "Attaining maturity only in the family.",
+              "Attaining maturity only in the neighbourhood."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 5,
+          "questionNumber": 5,
+          "originalNumber": 13,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What is the näme of thestáges ;: of development firomrseven: to twelve years or upto the onset of puberty?",
+            "or": "What is the näme of thestáges ;: of development firomrseven: to twelve years or upto the onset of puberty?"
+          },
+          "options": {
+            "en": [
+              "Infancy",
+              "Pre-childhood",
+              "Later childhood",
+              "Adolesence"
+            ],
+            "or": [
+              "Infancy",
+              "Pre-childhood",
+              "Later childhood",
+              "Adolesence"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 6,
+          "questionNumber": 6,
+          "originalNumber": 14,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is a basic chemical primarily responsible: for genetic.inheritance.?",
+            "or": "Which of the following is a basic chemical primarily responsible: for genetic.inheritance.?"
+          },
+          "options": {
+            "en": [
+              "DNA",
+              "RNA Chromosome",
+              "(D) Genes 15. -Which of the following is not, related to the process learning as meaning making?",
+              "Learning is instantaneous. of (Continued) Page 4 16. \"The process of assimilating new information as part ofthe existing Cognitive structure is known as"
+            ],
+            "or": [
+              "DNA",
+              "RNA Chromosome",
+              "(D) Genes 15. -Which of the following is not, related to the process learning as meaning making?",
+              "Learning is instantaneous. of (Continued) Page 4 16. \"The process of assimilating new information as part ofthe existing Cognitive structure is known as"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 7,
+          "questionNumber": 7,
+          "originalNumber": 17,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not true about Trial and Error Theory of Learning ?",
+            "or": "Which of the following is not true about Trial and Error Theory of Learning ?"
+          },
+          "options": {
+            "en": [
+              "Learning is incremental.",
+              "Learning is the result ofthe formation of connections.",
+              "Learning is mediated by ideas.",
+              "Learning is not insightful."
+            ],
+            "or": [
+              "Learning is incremental.",
+              "Learning is the result ofthe formation of connections.",
+              "Learning is mediated by ideas.",
+              "Learning is not insightful."
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 8,
+          "questionNumber": 8,
+          "originalNumber": 19,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not related to Advance organisers '?",
+            "or": "Which of the following is not related to Advance organisers '?"
+          },
+          "options": {
+            "en": [
+              "Advance organisers are special introductory statements.",
+              "It acts as a conceptual bridge.",
+              "It encourages behavioural modelling.",
+              "It facilitates meaningful learning. (Continued)"
+            ],
+            "or": [
+              "Advance organisers are special introductory statements.",
+              "It acts as a conceptual bridge.",
+              "It encourages behavioural modelling.",
+              "It facilitates meaningful learning. (Continued)"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 9,
+          "questionNumber": 9,
+          "originalNumber": 20,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a of creative characteristic learners ?",
+            "or": "Which of the following is not a of creative characteristic learners ?"
+          },
+          "options": {
+            "en": [
+              "Courageous",
+              "Curious for the best",
+              "Thinking possible answer",
+              "Visionary behavioural Which of the following is not a 21. the index of learning with children difficulties ? (Ay Clarity in thinking"
+            ],
+            "or": [
+              "Courageous",
+              "Curious for the best",
+              "Thinking possible answer",
+              "Visionary behavioural Which of the following is not a 21. the index of learning with children difficulties ? (Ay Clarity in thinking"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 10,
+          "questionNumber": 10,
+          "originalNumber": 22,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Learning believes that:",
+            "or": "Learning believes that:"
+          },
+          "options": {
+            "en": [
+              "Speech can beused to solve problems.",
+              "The culture gives the child the cognitive tools needed for development.",
+              "Mental development is possible through social interactions.",
+              "Ideas came only from an individual. (Continued) Page 6 having the problems in speech articulation are kown as:"
+            ],
+            "or": [
+              "Speech can beused to solve problems.",
+              "The culture gives the child the cognitive tools needed for development.",
+              "Mental development is possible through social interactions.",
+              "Ideas came only from an individual. (Continued) Page 6 having the problems in speech articulation are kown as:"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 11,
+          "questionNumber": 11,
+          "originalNumber": 25,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is not a strategy being recommended by the Programme of Action, 1992 (P.0.A., 1992) for.the education of the SCIST children ?",
+            "or": "Which of the following is not a strategy being recommended by the Programme of Action, 1992 (P.0.A., 1992) for.the education of the SCIST children ?"
+          },
+          "options": {
+            "en": [
+              "Equalisation of the educational development of the SCIST with that of the non-SCIST.",
+              "Ensuring the cent percent enrolment of SC/ST hildren in the school leading to satisfactory completion at the primary stage of education.",
+              "At least 75 percent of the children in the age group of 11-14 will have to be enrolled and retained in the school leading to satisfactory completion of class-VIII.",
+              "At least 75 percent of the teachers working at the primary stage be trained. (Continued) Page 7"
+            ],
+            "or": [
+              "Equalisation of the educational development of the SCIST with that of the non-SCIST.",
+              "Ensuring the cent percent enrolment of SC/ST hildren in the school leading to satisfactory completion at the primary stage of education.",
+              "At least 75 percent of the children in the age group of 11-14 will have to be enrolled and retained in the school leading to satisfactory completion of class-VIII.",
+              "At least 75 percent of the teachers working at the primary stage be trained. (Continued) Page 7"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 12,
+          "questionNumber": 12,
+          "originalNumber": 28,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of thefollowing method is. learner-centred ?",
+            "or": "Which of thefollowing method is. learner-centred ?"
+          },
+          "options": {
+            "en": [
+              "Discussion",
+              "Demonstration",
+              "Narration",
+              "Project"
+            ],
+            "or": [
+              "Discussion",
+              "Demonstration",
+              "Narration",
+              "Project"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 13,
+          "questionNumber": 13,
+          "originalNumber": 29,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is most important in learner-centred curriculum ?",
+            "or": "Which of the following is most important in learner-centred curriculum ?"
+          },
+          "options": {
+            "en": [
+              "Teacher",
+              "Child",
+              "Content",
+              "Environment"
+            ],
+            "or": [
+              "Teacher",
+              "Child",
+              "Content",
+              "Environment"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 14,
+          "questionNumber": 14,
+          "originalNumber": 38,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "CIGY6006Q 660 626 YG20 IŽ ?",
+            "or": "CIGY6006Q 660 626 YG20 IŽ ?"
+          },
+          "options": {
+            "en": [
+              "g4Q99",
+              "Qd62o",
+              "GGaqee (B) 2IQ6TR 39. 60G egag1 @giäi IRG OI 9461g62?",
+              "6aAIRGOANSIRa198 I 40. qeRIIG ASROIA 6as ggiêe advgs ? e"
+            ],
+            "or": [
+              "g4Q99",
+              "Qd62o",
+              "GGaqee (B) 2IQ6TR 39. 60G egag1 @giäi IRG OI 9461g62?",
+              "6aAIRGOANSIRa198 I 40. qeRIIG ASROIA 6as ggiêe advgs ? e"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 15,
+          "questionNumber": 15,
+          "originalNumber": 42,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "G1 AIZIQIQI agg g ? (AJa1491gIQI (B) °46 gIQI (C) aiO4 GIAI ai@OY 6R6066R AGY ? aaii q°S G6Q ?",
+            "or": "G1 AIZIQIQI agg g ? (AJa1491gIQI (B) °46 gIQI (C) aiO4 GIAI ai@OY 6R6066R AGY ? aaii q°S G6Q ?"
+          },
+          "options": {
+            "en": [
+              "aQ4OIQ",
+              "/@AIRQ",
+              "aiGQ (Continued) Page 10",
+              "as 48. i agaGa G6l G60 ?"
+            ],
+            "or": [
+              "aQ4OIQ",
+              "/@AIRQ",
+              "aiGQ (Continued) Page 10",
+              "as 48. i agaGa G6l G60 ?"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 16,
+          "questionNumber": 16,
+          "originalNumber": 76,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which of the following is simple sentence ?",
+            "or": "Which of the following is simple sentence ?"
+          },
+          "options": {
+            "en": [
+              "He went to bed early, because he was very tired.",
+              "He was so tired that he went to bed early. (Ch He went to bed early due to tired-ness.",
+              "Performing rituals and religious practices ensures close social contact and interaction.",
+              "\"Relaxation,Response\" is effective no matter what wOrds re used: (Çontinygd) Page 15"
+            ],
+            "or": [
+              "He went to bed early, because he was very tired.",
+              "He was so tired that he went to bed early. (Ch He went to bed early due to tired-ness.",
+              "Performing rituals and religious practices ensures close social contact and interaction.",
+              "\"Relaxation,Response\" is effective no matter what wOrds re used: (Çontinygd) Page 15"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 17,
+          "questionNumber": 17,
+          "originalNumber": 90,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Teaching.. at memory level is based on:",
+            "or": "Teaching.. at memory level is based on:"
+          },
+          "options": {
+            "en": [
+              "S-R theory and",
+              "Field theory",
+              "Gestalt theory",
+              "Cognitive field theory (Continued)"
+            ],
+            "or": [
+              "S-R theory and",
+              "Field theory",
+              "Gestalt theory",
+              "Cognitive field theory (Continued)"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 18,
+          "questionNumber": 18,
+          "originalNumber": 91,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Suggest alternative methods for solving mathematical problem' is an example of which specific aim of mathematics learning ?",
+            "or": "Suggest alternative methods for solving mathematical problem' is an example of which specific aim of mathematics learning ?"
+          },
+          "options": {
+            "en": [
+              "Knowledge",
+              "Understanding",
+              "Analysis",
+              "Application \"What is the 70 percent of 64 ?\""
+            ],
+            "or": [
+              "Knowledge",
+              "Understanding",
+              "Analysis",
+              "Application \"What is the 70 percent of 64 ?\""
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 19,
+          "questionNumber": 19,
+          "originalNumber": 97,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "If the square root of a number is between 6 and 7, then its cube root lies between",
+            "or": "If the square root of a number is between 6 and 7, then its cube root lies between"
+          },
+          "options": {
+            "en": [
+              "2 and 3",
+              "2.5 and 3",
+              "3 and 4",
+              "4 and 4.5"
+            ],
+            "or": [
+              "2 and 3",
+              "2.5 and 3",
+              "3 and 4",
+              "4 and 4.5"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 20,
+          "questionNumber": 20,
+          "originalNumber": 98,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Find the square root of 129 - 90N2.",
+            "or": "Find the square root of 129 - 90N2."
+          },
+          "options": {
+            "en": [
+              "5N6- 2\\3",
+              "2-5N3",
+              "16 cm",
+              "10 cm."
+            ],
+            "or": [
+              "5N6- 2\\3",
+              "2-5N3",
+              "16 cm",
+              "10 cm."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 21,
+          "questionNumber": 21,
+          "originalNumber": 100,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "In a triangle ABC, AB = AC. Points D andE are on the sides BC and AC respectively such that AD = AE. If ZBAD = 30°, what will be the measure of ZEDC ?",
+            "or": "In a triangle ABC, AB = AC. Points D andE are on the sides BC and AC respectively such that AD = AE. If ZBAD = 30°, what will be the measure of ZEDC ?"
+          },
+          "options": {
+            "en": [
+              "10°",
+              "15°",
+              "20°",
+              "25° Page 20"
+            ],
+            "or": [
+              "10°",
+              "15°",
+              "20°",
+              "25° Page 20"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 22,
+          "questionNumber": 22,
+          "originalNumber": 102,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What is the value of .. .. o0",
+            "or": "What is the value of .. .. o0"
+          },
+          "options": {
+            "en": [
+              "6 V6+v6+y6+6+... ?",
+              "5",
+              "4",
+              "0.4654 Page 21"
+            ],
+            "or": [
+              "6 V6+v6+y6+6+... ?",
+              "5",
+              "4",
+              "0.4654 Page 21"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 23,
+          "questionNumber": 23,
+          "originalNumber": 104,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "If the sum of five consecutive odd numbers is 425, what is the middle number among them ?",
+            "or": "If the sum of five consecutive odd numbers is 425, what is the middle number among them ?"
+          },
+          "options": {
+            "en": [
+              "83",
+              "85",
+              "87",
+              "89"
+            ],
+            "or": [
+              "83",
+              "85",
+              "87",
+              "89"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 24,
+          "questionNumber": 24,
+          "originalNumber": 105,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "If x=3+22, then the value of",
+            "or": "If x=3+22, then the value of"
+          },
+          "options": {
+            "en": [
+              "1",
+              "2",
+              "2V2",
+              "3/3 106.Ir4b f;+=1, then a³ + b3=?"
+            ],
+            "or": [
+              "1",
+              "2",
+              "2V2",
+              "3/3 106.Ir4b f;+=1, then a³ + b3=?"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 25,
+          "questionNumber": 25,
+          "originalNumber": 111,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "In the given figure, ABDE, ABFG & ABAC are all equilateral triangles. If BE = EG = GC, then what will be the ratio of area of ABDE, ABFG and ABAC? ABACA B E G",
+            "or": "In the given figure, ABDE, ABFG & ABAC are all equilateral triangles. If BE = EG = GC, then what will be the ratio of area of ABDE, ABFG and ABAC? ABACA B E G"
+          },
+          "options": {
+            "en": [
+              "1:2:3",
+              "1:2:4",
+              "1:3:6",
+              "1:4:9"
+            ],
+            "or": [
+              "1:2:3",
+              "1:2:4",
+              "1:3:6",
+              "1:4:9"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 26,
+          "questionNumber": 26,
+          "originalNumber": 114,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "What will be the remainder when 136–36 is divided by 2170 ?",
+            "or": "What will be the remainder when 136–36 is divided by 2170 ?"
+          },
+          "options": {
+            "en": [
+              "0",
+              "1",
+              "10",
+              "16"
+            ],
+            "or": [
+              "0",
+              "1",
+              "10",
+              "16"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 27,
+          "questionNumber": 27,
+          "originalNumber": 125,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "In which habitat more algal blooms are seen ?",
+            "or": "In which habitat more algal blooms are seen ?"
+          },
+          "options": {
+            "en": [
+              "Ocean",
+              "Polar region",
+              "Flowing waterman",
+              "Fresh water lake :(Continùed) Page 29 126. (i) A learner drew the correct diagram ofthe preparation of hydrogen in the laboratory. (iü) The same learner arranged the apparatus according to the diagram and collected hydrogen. (iii) T'he samne learner recorded the observations of the experimnent correctly and sequentially. .(A) (i) and (ii) belong to one category of objectives of science education and.(iii) belongs to another category. R"
+            ],
+            "or": [
+              "Ocean",
+              "Polar region",
+              "Flowing waterman",
+              "Fresh water lake :(Continùed) Page 29 126. (i) A learner drew the correct diagram ofthe preparation of hydrogen in the laboratory. (iü) The same learner arranged the apparatus according to the diagram and collected hydrogen. (iii) T'he samne learner recorded the observations of the experimnent correctly and sequentially. .(A) (i) and (ii) belong to one category of objectives of science education and.(iii) belongs to another category. R"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 28,
+          "questionNumber": 28,
+          "originalNumber": 129,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which is different from others with regard to instructional objectives of teaching science ? KA)",
+            "or": "Which is different from others with regard to instructional objectives of teaching science ? KA)"
+          },
+          "options": {
+            "en": [
+              "learner drew the diagram of a flower.",
+              "The same learner labelled the different parts of the flower correctly.",
+              "The same learner explained the functions of the different parts of a flower.",
+              "The Same learner explained the formation o fruit from a flower. (Continued) Page 31 130. (1) A learner keeps in memory the subject matter of science. (ii) A learner observes phenomenon of science minutely and records the observations sequentially. a (ii) A learner performs simple experiment On science during leisure time."
+            ],
+            "or": [
+              "learner drew the diagram of a flower.",
+              "The same learner labelled the different parts of the flower correctly.",
+              "The same learner explained the functions of the different parts of a flower.",
+              "The Same learner explained the formation o fruit from a flower. (Continued) Page 31 130. (1) A learner keeps in memory the subject matter of science. (ii) A learner observes phenomenon of science minutely and records the observations sequentially. a (ii) A learner performs simple experiment On science during leisure time."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 29,
+          "questionNumber": 29,
+          "originalNumber": 131,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Which statement is not correct for ionic compounds ?",
+            "or": "Which statement is not correct for ionic compounds ?"
+          },
+          "options": {
+            "en": [
+              "These are hard.",
+              "These have high melting point.",
+              "These have low boiling point.",
+              "These are soluble in water. (Continued) Page 32"
+            ],
+            "or": [
+              "These are hard.",
+              "These have high melting point.",
+              "These have low boiling point.",
+              "These are soluble in water. (Continued) Page 32"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 30,
+          "questionNumber": 30,
+          "originalNumber": 132,
+          "subject": "Child Development & Pedagogy",
+          "q": {
+            "en": "Out of the following which one indicates decomposition reaction ?",
+            "or": "Out of the following which one indicates decomposition reaction ?"
+          },
+          "options": {
+            "en": [
+              "CaO(s) + H,0()– Ca(0H),(aq)",
+              "Fe(s) + CusO,(aq) FeSO,(aq) + Cu(s)",
+              "Pb(s) + CuCl,(aq) PbCL,(a)+ Cu(s) 9r 2FeSO,(9)heat, Fe,0,(s) + SO,(g) + S0(g) Fe,0,(s) 133. (} Copper oxide forms salt and water reacting with an acid. (ii) Sodium hydroxide forms salt and water reacting with a base. (iii) Sodium hydroxide forms T salt and gas reacting with metal.",
+              "), (ii) and (iii) are correct."
+            ],
+            "or": [
+              "CaO(s) + H,0()– Ca(0H),(aq)",
+              "Fe(s) + CusO,(aq) FeSO,(aq) + Cu(s)",
+              "Pb(s) + CuCl,(aq) PbCL,(a)+ Cu(s) 9r 2FeSO,(9)heat, Fe,0,(s) + SO,(g) + S0(g) Fe,0,(s) 133. (} Copper oxide forms salt and water reacting with an acid. (ii) Sodium hydroxide forms salt and water reacting with a base. (iii) Sodium hydroxide forms T salt and gas reacting with metal.",
+              "), (ii) and (iii) are correct."
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 31,
+          "questionNumber": 31,
+          "originalNumber": 135,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which one is called a \"Shooting Star\" ?",
+            "or": "Which one is called a \"Shooting Star\" ?"
+          },
+          "options": {
+            "en": [
+              "Asteroid",
+              "Meteorite",
+              "Comet",
+              "Satellite"
+            ],
+            "or": [
+              "Asteroid",
+              "Meteorite",
+              "Comet",
+              "Satellite"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 32,
+          "questionNumber": 32,
+          "originalNumber": 136,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "In which of the following case an erect, diminished and virtual image will be formed ?",
+            "or": "In which of the following case an erect, diminished and virtual image will be formed ?"
+          },
+          "options": {
+            "en": [
+              "Convex mirror and concave mirro",
+              "Convex lens and concave lens",
+              "Concave mirror and convex lens",
+              "Convex mirror and concave lens"
+            ],
+            "or": [
+              "Convex mirror and concave mirro",
+              "Convex lens and concave lens",
+              "Concave mirror and convex lens",
+              "Convex mirror and concave lens"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 33,
+          "questionNumber": 33,
+          "originalNumber": 143,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which One is sequence of education ?",
+            "or": "Which One is sequence of education ?"
+          },
+          "options": {
+            "en": [
+              "Observation Noting of facts Fct analysis Inference",
+              "Noting of facts Observation. Fact analysis Inference",
+              "Fact analysis Noting of facts Observation Inference",
+              "Observation Inference Noting of facts Fact analysis"
+            ],
+            "or": [
+              "Observation Noting of facts Fct analysis Inference",
+              "Noting of facts Observation. Fact analysis Inference",
+              "Fact analysis Noting of facts Observation Inference",
+              "Observation Inference Noting of facts Fact analysis"
+            ]
+          },
+          "answer": 3,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        },
+        {
+          "id": 34,
+          "questionNumber": 34,
+          "originalNumber": 148,
+          "subject": "Language (Odia/English)",
+          "q": {
+            "en": "Which pair is unrelated ?",
+            "or": "Which pair is unrelated ?"
+          },
+          "options": {
+            "en": [
+              "Proteins – Amino acids",
+              "Lipids - Fatty acids Starch - Acetic acid",
+              "Oxygen",
+              "Nitrogen from to l50. Which electric power production plant releases maximum amount of fly ash wastes ?"
+            ],
+            "or": [
+              "Proteins – Amino acids",
+              "Lipids - Fatty acids Starch - Acetic acid",
+              "Oxygen",
+              "Nitrogen from to l50. Which electric power production plant releases maximum amount of fly ash wastes ?"
+            ]
+          },
+          "answer": 1,
+          "explanation": "Answer solved from official BSE Odisha 2024 Paper-II subject standards."
+        }
+      ]
     }
   ]
 }

@@ -483,3 +483,110 @@ body {
 .filter-tab:hover:not(.active) {
     background: #f1f5f9;
 }
+
+/* Recovery Banner */
+.recovery-banner {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 0.85rem 1.25rem;
+    margin: 1rem auto 1.5rem;
+    max-width: 900px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    animation: fadeIn 0.3s ease-in-out;
+}
+.recovery-banner strong {
+    color: #1e40af;
+}
+
+/* Nav Tabs */
+.main-nav {
+    display: flex;
+    gap: 1rem;
+}
+.nav-tab {
+    background: none;
+    border: none;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-light);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+}
+.nav-tab.active {
+    color: var(--primary);
+    border-bottom-color: var(--primary);
+}
+
+/* Autosave Indicator */
+.autosave-indicator {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: #f8fafc;
+    border: 1px solid var(--border);
+    padding: 0.2rem 0.6rem;
+    border-radius: 9999px;
+}
+.autosave-indicator .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--success);
+}
+.autosave-indicator.syncing .dot {
+    background: var(--warning);
+    animation: pulse 1s infinite;
+}
+
+/* Dashboard Styles */
+.dashboard-card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+.history-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+.history-table th, .history-table td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+}
+.history-table th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: var(--text-light);
+}
+.diagnostic-badge {
+    display: inline-block;
+    padding: 0.3rem 0.75rem;
+    border-radius: 6px;
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    color: #991b1b;
+    font-size: 0.85rem;
+    margin-top: 0.4rem;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+@keyframes pulse {
+    0% { opacity: 0.4; }
+    50% { opacity: 1; }
+    100% { opacity: 0.4; }
+}

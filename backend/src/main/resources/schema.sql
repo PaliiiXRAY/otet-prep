@@ -41,17 +41,23 @@ CREATE TABLE IF NOT EXISTS test_attempts (
     test_paper_id BIGINT NOT NULL REFERENCES test_papers(id),
     candidate_name VARCHAR(150),
     candidate_email VARCHAR(150),
+    status VARCHAR(30) DEFAULT 'IN_PROGRESS',
     start_time TIMESTAMP NOT NULL,
     submit_time TIMESTAMP,
+    last_active_time TIMESTAMP,
+    remaining_seconds INT DEFAULT 9000,
+    current_question_index INT DEFAULT 0,
     score INT DEFAULT 0,
     correct_count INT DEFAULT 0,
     wrong_count INT DEFAULT 0,
     skipped_count INT DEFAULT 0,
     percentage NUMERIC(5,2) DEFAULT 0.0,
-    passed BOOLEAN DEFAULT FALSE
+    passed BOOLEAN DEFAULT FALSE,
+    weak_areas_summary TEXT
 );
 
 CREATE INDEX IF NOT EXISTS idx_attempts_candidate_email ON test_attempts(candidate_email);
+CREATE INDEX IF NOT EXISTS idx_attempts_status ON test_attempts(status);
 
 CREATE TABLE IF NOT EXISTS user_answers (
     id BIGSERIAL PRIMARY KEY,

@@ -22,7 +22,8 @@ public class TestController {
     public ResponseEntity<Map<String, String>> healthCheck() {
         return ResponseEntity.ok(Map.of(
                 "status", "UP",
-                "service", "OTET Assessment Engine",
+                "service", "OTET Assessment & Analytics Engine",
+                "features", "Autosave, Crash Recovery, AI Diagnostics",
                 "timestamp", java.time.Instant.now().toString()
         ));
     }
@@ -37,9 +38,36 @@ public class TestController {
         return ResponseEntity.ok(testService.getQuestionsForPaper(paperCode));
     }
 
-    @PostMapping("/tests/{paperCode}/submit")
-    public ResponseEntity<TestResultDTO> submitTest(@PathVariable String paperCode,
-                                                    @RequestBody SubmitTestRequestDTO request) {
-        return ResponseEntity.ok(testService.submitTest(paperCode, request));
+    @PostMapping("/tests/{paperCode}/start")
+    public ResponseEntity<StartTestResponseDTO> startOrResumeTest(
+            @PathVariable String paperCode,
+            @RequestBody(required = false) StartTestRequestDTO request) {
+        return ResponseEntity.ok(testService.startOrResumeTest(paperCode, request));
+    }
+
+    @PostMapping("/attempts/{attemptId}/autosave")
+    public ResponseEntity<Map<String, Object>> autosaveAttempt(
+            @PathVariable Long attemptId,
+            @RequestBody AutosaveRequestDTO request) {
+        return ResponseEntity.ok(testService.autosaveAttempt(attemptId, request));
+    }
+
+    @PostMapping("/attempts/{attemptId}/submit")
+    public ResponseEntity<TestResultDTO> submitAttempt(
+            @PathVariable Long attemptId,
+            @RequestBody(required = false) SubmitTestRequestDTO request) {
+        return ResponseEntity.ok(testService.submitAttempt(attemptId, request));
+    }
+
+    @GetMapping("/students/{email}/history")
+    public ResponseEntity<List<StudentHistorySummaryDTO>> getStudentHistory(@PathVariable String email) {
+        return ResponseEntity.ok(testService.getStudentHistory(email));
+    }
+
+    @GetMapping("/students/{email}/active")
+    public ResponseEntity<?> getActiveAttempt(@PathVariable String email) {
+        return testService.getActiveResumeAttempt(email)
+                .map(ResponseEntity::ok)
+                .orElse(ResponseEntity.noContent().build());
     }
 }

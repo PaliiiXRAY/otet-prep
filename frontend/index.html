@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OTET Prep Pro | Official Test Series & Question Bank</title>
+    <title>OTET Prep Pro | Enterprise Assessment & Diagnostic Platform</title>
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,10 +13,20 @@
 
 <body>
     <div id="app">
-        <!-- Header -->
+        <!-- Main Navigation Header -->
         <header class="main-header">
-            <div class="logo">OTET <span>Prep Pro</span></div>
+            <div style="display: flex; align-items: center; gap: 2rem;">
+                <div class="logo">OTET <span>Prep Pro</span></div>
+                <nav class="main-nav">
+                    <button class="nav-tab active" id="nav-catalog-btn">Test Series</button>
+                    <button class="nav-tab" id="nav-dashboard-btn">My Performance & Analytics</button>
+                </nav>
+            </div>
             <div class="header-controls">
+                <div id="autosave-indicator" class="autosave-indicator" style="display: none;">
+                    <span class="dot"></span>
+                    <span id="autosave-text">Autosaved</span>
+                </div>
                 <div id="server-status-pill" class="server-status">
                     <span class="dot"></span>
                     <span id="server-status-text">Connecting...</span>
@@ -26,19 +36,34 @@
             </div>
         </header>
 
-        <!-- Landing Page View -->
+        <!-- Ongoing Test Recovery Banner -->
+        <div id="recovery-banner" class="recovery-banner" style="display: none;">
+            <div>
+                <strong>⚠️ Unfinished Exam Detected:</strong>
+                <span id="recovery-text">You have an ongoing test in progress.</span>
+            </div>
+            <div style="display: flex; gap: 0.5rem;">
+                <button id="btn-resume-exam" class="btn-primary" style="padding: 0.35rem 0.8rem; font-size: 0.85rem;">Resume Test</button>
+                <button id="btn-discard-exam" class="btn-secondary" style="padding: 0.35rem 0.8rem; font-size: 0.85rem;">Dismiss</button>
+            </div>
+        </div>
+
+        <!-- 1. Catalog View (Landing Page) -->
         <main id="landing-view" class="view active">
             <div class="hero">
                 <h1>Ace Your Odisha TET Exam</h1>
-                <p>Enterprise Mock Assessment Engine · 1,120+ Authentic Past Year Questions · Official BSE Odisha Answer Keys</p>
+                <p>Enterprise Mock Assessment Engine · 1,228+ Official Questions · Real-Time Autosave · AI Weak-Area Diagnostics</p>
 
-                <!-- Student Information Card -->
-                <div style="max-width: 450px; margin: 1.5rem auto; text-align: left; background: white; padding: 1.25rem; border-radius: 8px; border: 1px solid var(--border);">
-                    <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-light); display: block; margin-bottom: 0.3rem;">Candidate Name (Optional)</label>
-                    <input type="text" id="candidate-name" placeholder="Enter your full name" style="width: 100%; padding: 0.6rem; border: 1px solid var(--border); border-radius: 6px; margin-bottom: 0.75rem; font-family: inherit;">
-                    
-                    <label style="font-size: 0.85rem; font-weight: 600; color: var(--text-light); display: block; margin-bottom: 0.3rem;">Email / Roll Number</label>
-                    <input type="text" id="candidate-email" placeholder="e.g. candidate@example.com" style="width: 100%; padding: 0.6rem; border: 1px solid var(--border); border-radius: 6px; font-family: inherit;">
+                <!-- Student Profile Card -->
+                <div style="max-width: 480px; margin: 1.5rem auto; text-align: left; background: white; padding: 1.25rem; border-radius: 8px; border: 1px solid var(--border);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+                        <span style="font-size: 0.85rem; font-weight: 700; color: var(--text-main);">Candidate Profile</span>
+                        <span style="font-size: 0.75rem; color: var(--text-light);">Autosave & history are linked to your email</span>
+                    </div>
+                    <div style="display: flex; gap: 0.5rem;">
+                        <input type="text" id="candidate-name" placeholder="Full Name" style="flex: 1; padding: 0.55rem; border: 1px solid var(--border); border-radius: 6px; font-family: inherit;">
+                        <input type="email" id="candidate-email" placeholder="Email / Roll No." style="flex: 1.2; padding: 0.55rem; border: 1px solid var(--border); border-radius: 6px; font-family: inherit;">
+                    </div>
                 </div>
 
                 <!-- Exam Category Filters -->
@@ -46,7 +71,7 @@
                     <button class="btn-secondary filter-tab active" data-filter="all">All Papers (12)</button>
                     <button class="btn-secondary filter-tab" data-filter="full">Full-Length Mocks (150 Qs)</button>
                     <button class="btn-secondary filter-tab" data-filter="subject">Subject Practice (50-60 Qs)</button>
-                    <button class="btn-secondary filter-tab" data-filter="stream">Paper-II Streams</button>
+                    <button class="btn-secondary filter-tab" data-filter="stream">Paper-II Streams (2024 & Curated)</button>
                 </div>
 
                 <!-- Paper Selection Grid -->
@@ -56,7 +81,47 @@
             </div>
         </main>
 
-        <!-- Quiz Interface View -->
+        <!-- 2. Student Dashboard & Analytics View -->
+        <main id="dashboard-view" class="view" style="display: none; max-width: 1000px; margin: 2rem auto; padding: 0 1.5rem;">
+            <div class="dashboard-card">
+                <h2>Candidate Performance & Analytics</h2>
+                <p style="color: var(--text-light); margin-top: 0.25rem;">Track your exam readiness, past attempts, score trends, and priority revision topics.</p>
+
+                <div style="margin: 1.25rem 0; display: flex; gap: 0.75rem; align-items: center;">
+                    <input type="email" id="dashboard-email-input" placeholder="Enter your email to load history" style="padding: 0.6rem 1rem; border: 1px solid var(--border); border-radius: 6px; font-family: inherit; width: 320px;">
+                    <button id="btn-load-history" class="btn-primary">View My History</button>
+                </div>
+
+                <!-- Diagnostic Summary Card -->
+                <div id="diagnostic-summary-box" style="display: none; background: #faf5ff; border: 1px solid #e9d5ff; border-radius: 8px; padding: 1rem 1.25rem; margin: 1.25rem 0;">
+                    <h3 style="color: #6b21a8; font-size: 1rem; margin-bottom: 0.3rem;">🧠 AI Weak-Area Diagnostic Insights</h3>
+                    <p id="diagnostic-summary-text" style="font-size: 0.9rem; color: #4c1d95;">Analysis loading...</p>
+                </div>
+
+                <!-- Attempt History Table -->
+                <div style="overflow-x: auto; margin-top: 1rem;">
+                    <table class="history-table">
+                        <thead>
+                            <tr>
+                                <th>Test Paper</th>
+                                <th>Date & Time</th>
+                                <th>Score / Total</th>
+                                <th>Percentage</th>
+                                <th>Result</th>
+                                <th>Diagnostic Focus</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-table-body">
+                            <tr>
+                                <td colspan="6" style="text-align: center; color: var(--text-light); padding: 2rem;">Enter your email above to load your past test attempts and diagnostics.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </main>
+
+        <!-- 3. Quiz Interface View (With Real-Time Autosave) -->
         <main id="quiz-view" class="view" style="display: none;">
             <div class="quiz-container">
                 <aside class="question-palette">
@@ -97,7 +162,7 @@
             </div>
         </main>
 
-        <!-- Result & Review View -->
+        <!-- 4. Result & Detailed Review View -->
         <main id="result-view" class="view" style="display: none;">
             <div class="result-card">
                 <h2>Exam Performance Report</h2>
@@ -122,9 +187,15 @@
                     </div>
                 </div>
 
+                <!-- Weak Area Diagnostic Callout -->
+                <div id="result-diagnostic-box" style="background: #f8fafc; border: 1px solid var(--border); border-left: 4px solid var(--warning); border-radius: 6px; padding: 1rem; margin: 1.25rem 0; text-align: left;">
+                    <strong style="color: var(--text-main); font-size: 0.95rem;">🎯 Targeted Revision Diagnostic:</strong>
+                    <p id="result-diagnostic-text" style="font-size: 0.85rem; color: var(--text-light); margin-top: 0.25rem;">Analyzing errors...</p>
+                </div>
+
                 <div id="subject-breakdown-container"></div>
 
-                <div class="action-buttons" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center;">
+                <div class="action-buttons" style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
                     <button class="btn-secondary" id="btn-review-toggle">Show Detailed Question Review</button>
                     <button class="btn-primary" onclick="window.location.reload()">Take Another Test</button>
                 </div>

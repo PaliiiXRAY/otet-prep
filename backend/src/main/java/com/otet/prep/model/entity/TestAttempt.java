@@ -20,8 +20,15 @@ public class TestAttempt {
     private String candidateName;
     private String candidateEmail;
 
+    @Column(nullable = false, length = 30)
+    private String status = "IN_PROGRESS"; // "IN_PROGRESS", "SUBMITTED"
+
     private LocalDateTime startTime;
     private LocalDateTime submitTime;
+    private LocalDateTime lastActiveTime;
+
+    private int remainingSeconds = 9000; // default 150 minutes
+    private int currentQuestionIndex = 0;
 
     private int score;
     private int correctCount;
@@ -29,6 +36,9 @@ public class TestAttempt {
     private int skippedCount;
     private double percentage;
     private boolean passed;
+
+    @Column(columnDefinition = "TEXT")
+    private String weakAreasSummary;
 
     @OneToMany(mappedBy = "testAttempt", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<UserAnswer> answers = new ArrayList<>();
@@ -47,11 +57,23 @@ public class TestAttempt {
     public String getCandidateEmail() { return candidateEmail; }
     public void setCandidateEmail(String candidateEmail) { this.candidateEmail = candidateEmail; }
 
+    public String getStatus() { return status; }
+    public void setStatus(String status) { this.status = status; }
+
     public LocalDateTime getStartTime() { return startTime; }
     public void setStartTime(LocalDateTime startTime) { this.startTime = startTime; }
 
     public LocalDateTime getSubmitTime() { return submitTime; }
     public void setSubmitTime(LocalDateTime submitTime) { this.submitTime = submitTime; }
+
+    public LocalDateTime getLastActiveTime() { return lastActiveTime; }
+    public void setLastActiveTime(LocalDateTime lastActiveTime) { this.lastActiveTime = lastActiveTime; }
+
+    public int getRemainingSeconds() { return remainingSeconds; }
+    public void setRemainingSeconds(int remainingSeconds) { this.remainingSeconds = remainingSeconds; }
+
+    public int getCurrentQuestionIndex() { return currentQuestionIndex; }
+    public void setCurrentQuestionIndex(int currentQuestionIndex) { this.currentQuestionIndex = currentQuestionIndex; }
 
     public int getScore() { return score; }
     public void setScore(int score) { this.score = score; }
@@ -70,6 +92,9 @@ public class TestAttempt {
 
     public boolean isPassed() { return passed; }
     public void setPassed(boolean passed) { this.passed = passed; }
+
+    public String getWeakAreasSummary() { return weakAreasSummary; }
+    public void setWeakAreasSummary(String weakAreasSummary) { this.weakAreasSummary = weakAreasSummary; }
 
     public List<UserAnswer> getAnswers() { return answers; }
     public void setAnswers(List<UserAnswer> answers) { this.answers = answers; }

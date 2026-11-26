@@ -27,6 +27,7 @@ public class TestService {
         this.testAttemptRepository = testAttemptRepository;
     }
 
+    @Transactional(readOnly = true)
     public List<TestPaperSummaryDTO> getAllTestPapers() {
         return testPaperRepository.findAll().stream()
                 .map(p -> new TestPaperSummaryDTO(
@@ -36,7 +37,7 @@ public class TestService {
                         p.getDescription(),
                         p.getTargetClass(),
                         p.getDurationMinutes(),
-                        p.getQuestions().size() > 0 ? p.getQuestions().size() : p.getTotalQuestions()
+                        p.getTotalQuestions() > 0 ? p.getTotalQuestions() : (p.getQuestions() != null ? p.getQuestions().size() : 150)
                 ))
                 .toList();
     }

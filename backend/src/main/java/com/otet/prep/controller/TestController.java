@@ -1,6 +1,7 @@
 package com.otet.prep.controller;
 
 import com.otet.prep.model.dto.*;
+import com.otet.prep.service.DataSeederService;
 import com.otet.prep.service.TestService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -13,9 +14,11 @@ import java.util.Map;
 public class TestController {
 
     private final TestService testService;
+    private final DataSeederService dataSeederService;
 
-    public TestController(TestService testService) {
+    public TestController(TestService testService, DataSeederService dataSeederService) {
         this.testService = testService;
+        this.dataSeederService = dataSeederService;
     }
 
     @GetMapping("/health")
@@ -69,5 +72,10 @@ public class TestController {
         return testService.getActiveResumeAttempt(email)
                 .map(ResponseEntity::ok)
                 .orElse(ResponseEntity.noContent().build());
+    }
+
+    @RequestMapping(value = "/admin/seed", method = {RequestMethod.GET, RequestMethod.POST})
+    public ResponseEntity<Map<String, Object>> triggerSeed() {
+        return ResponseEntity.ok(dataSeederService.seedDatabase());
     }
 }

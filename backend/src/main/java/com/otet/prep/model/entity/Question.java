@@ -18,7 +18,7 @@ public class Question {
 
     private int questionNumber;
 
-    @Column(nullable = false, length = 50)
+    @Column(nullable = false, length = 150)
     private String subject; // e.g., "CDP", "Odia", "English", "Math", "Science", "Social Studies"
 
     @Column(columnDefinition = "TEXT", nullable = false)

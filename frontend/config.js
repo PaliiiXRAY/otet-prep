@@ -3,8 +3,8 @@
 // ============================================================================
 
 const defaultLocalApi = 'http://localhost:8080/api/v1';
-// Default live Render backend (update to your own Render URL after deploying)
-const defaultProdApi = 'https://otet-prep-backend.onrender.com/api/v1';
+// Default live Render backend
+const defaultProdApi = 'https://otet-prep.onrender.com/api/v1';
 
 const customOverride = localStorage.getItem('otet_custom_api_url');
 

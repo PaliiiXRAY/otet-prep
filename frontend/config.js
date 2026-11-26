@@ -1,7 +1,17 @@
-// OTET Test Series - Environment Configuration
+// ============================================================================
+// OTET Exam System - Dynamic API Configuration
+// ============================================================================
+
+const defaultLocalApi = 'http://localhost:8080/api/v1';
+// Default live Render backend (update to your own Render URL after deploying)
+const defaultProdApi = 'https://otet-prep-backend.onrender.com/api/v1';
+
+const customOverride = localStorage.getItem('otet_custom_api_url');
+
 window.APP_CONFIG = {
-    // In production on Vercel, replace with your live Render/Railway URL (e.g. 'https://otet-api.onrender.com/api/v1')
-    API_BASE_URL: window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
-        ? 'http://localhost:8080/api/v1'
-        : 'https://otet-api.onrender.com/api/v1'
+    API_BASE_URL: customOverride
+        ? customOverride
+        : (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+            ? defaultLocalApi
+            : defaultProdApi)
 };
